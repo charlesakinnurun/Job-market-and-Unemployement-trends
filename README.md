@@ -30,7 +30,6 @@ Driven by a quest to understand and analyze historical performance and dynamics 
 20. Which states had an unemployment rate between 4% and 6% for more than 12 months?
 # Tools I Used
 For my deep dive into the digital advertising strategies, I harnessed the power of several key tools:
-- **Pandas:** Essential python library used for data manipulation, analysis, and cleaning.
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
 - **MySQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
