@@ -1,0 +1,1 @@
+SELECT AVG(unemployment_rate) AS average_unemployment_rate FROM job;

@@ -1,0 +1,1001 @@
+id,date,location,unemployment_rate,job_postings,in_demand_skills,average_age,college_degree_percentage
+1,2023-10-07,Houston,6.8,4894,"Agile Methodologies, Project Management",44,74
+2,2025-05-24,Washington,11.1,2695,"Data Analysis, UX/UI Design, Digital Marketing",50,87
+3,2024-09-28,Chicago,7.3,1174,"Agile Methodologies, Digital Marketing, Machine Learning, Cloud Computing, Cybersecurity",48,54
+4,2024-12-28,Indianapolis,11.2,3708,"Cloud Computing, UX/UI Design",36,75
+5,2023-09-10,New York,13.7,268,"SQL, Machine Learning, Python, Project Management, Customer Service",41,75
+6,2024-12-31,Los Angeles,5.0,1785,"Cloud Computing, UX/UI Design, Project Management",37,52
+7,2023-09-01,Phoenix,13.7,2784,"Data Analysis, Project Management",33,38
+8,2024-10-08,San Jose,10.1,4981,"Customer Service, UX/UI Design, Cybersecurity, Python, SQL",34,44
+9,2024-08-06,Austin,9.0,2453,"Digital Marketing, JavaScript",30,68
+10,2024-02-14,Dallas,12.4,808,"Cloud Computing, JavaScript",39,44
+11,2024-03-18,San Francisco,5.5,989,"Data Analysis, Cloud Computing",28,82
+12,2025-05-01,Washington,2.3,2135,"Project Management, Digital Marketing, Agile Methodologies",27,68
+13,2025-04-12,Phoenix,14.6,4054,"Agile Methodologies, JavaScript, UX/UI Design",25,88
+14,2025-01-23,Los Angeles,8.2,4206,"Cybersecurity, Data Analysis",37,45
+15,2024-10-13,Columbus,3.3,4005,"Project Management, Sales, UX/UI Design",35,85
+16,2023-08-22,San Antonio,6.0,4147,"Sales, UX/UI Design, JavaScript, Digital Marketing",32,85
+17,2024-09-06,San Jose,13.0,4580,"SQL, JavaScript, Customer Service, UX/UI Design",44,33
+18,2024-08-07,Washington,14.6,4809,"Cybersecurity, JavaScript, SQL, Cloud Computing",46,89
+19,2024-04-25,Jacksonville,4.5,2265,"JavaScript, Python",48,48
+20,2025-03-17,San Jose,2.3,4694,"Digital Marketing, Customer Service, Cybersecurity, JavaScript, Agile Methodologies",46,46
+21,2024-01-12,San Francisco,14.8,4341,"UX/UI Design, Customer Service",28,32
+22,2025-05-10,Jacksonville,9.3,4254,"Data Analysis, UX/UI Design",43,38
+23,2024-08-06,Seattle,14.7,3377,"Data Analysis, Customer Service, Sales, Cybersecurity",37,90
+24,2024-12-31,Charlotte,2.0,1892,"Cybersecurity, Sales, Data Analysis, Project Management",36,51
+25,2024-09-23,Columbus,14.4,58,"SQL, Machine Learning",44,31
+26,2024-03-11,Indianapolis,7.1,3665,"Python, Agile Methodologies, SQL, Sales, Machine Learning",29,37
+27,2024-10-27,Washington,7.9,3613,"Project Management, UX/UI Design, Machine Learning, Python",32,76
+28,2024-12-19,San Francisco,2.9,3376,"Data Analysis, Machine Learning, Customer Service, Python, Agile Methodologies",39,38
+29,2024-06-25,Charlotte,2.5,1377,"Digital Marketing, Customer Service",27,50
+30,2025-01-03,Philadelphia,7.3,4155,"UX/UI Design, Machine Learning",38,70
+31,2024-08-24,Houston,13.8,1558,"Machine Learning, Cloud Computing, Customer Service",36,63
+32,2023-12-18,Jacksonville,5.2,3166,"SQL, Machine Learning, Agile Methodologies",41,64
+33,2025-03-26,Columbus,6.8,3716,"Python, SQL, Customer Service, Data Analysis",29,79
+34,2023-08-23,Washington,7.5,2534,"Machine Learning, Customer Service",32,47
+35,2025-04-03,New York,11.2,1331,"Machine Learning, Data Analysis, Sales, JavaScript",46,65
+36,2024-05-22,Dallas,11.1,476,"Cloud Computing, Machine Learning",48,57
+37,2023-09-24,Charlotte,2.5,2826,"UX/UI Design, Project Management, Sales, Data Analysis, Digital Marketing",39,34
+38,2023-11-23,Philadelphia,4.2,3353,"Customer Service, Cybersecurity, Cloud Computing, Agile Methodologies",41,84
+39,2025-06-21,San Francisco,7.9,1501,"SQL, Cybersecurity, Machine Learning, Agile Methodologies",50,62
+40,2023-12-24,San Antonio,6.1,118,"JavaScript, UX/UI Design, Cybersecurity, Data Analysis",27,35
+41,2023-11-04,New York,5.3,4412,"Data Analysis, Cybersecurity, Machine Learning, UX/UI Design",45,66
+42,2025-05-17,San Jose,2.7,3397,"Digital Marketing, Machine Learning, Cloud Computing, Agile Methodologies",27,56
+43,2024-04-17,San Jose,11.5,1660,"Machine Learning, Customer Service, Data Analysis, Agile Methodologies, Python",48,39
+44,2024-04-12,Austin,14.3,159,"Python, Digital Marketing, Project Management, Cloud Computing, Sales",27,57
+45,2024-10-21,San Francisco,10.5,4747,"Python, Sales, Data Analysis, Project Management",41,61
+46,2024-12-11,Los Angeles,5.4,961,"Agile Methodologies, UX/UI Design, Python, Cybersecurity, Customer Service",29,31
+47,2023-09-09,Denver,12.5,1240,"Cloud Computing, Cybersecurity, Python",27,53
+48,2025-07-23,Denver,7.3,4546,"Cloud Computing, JavaScript, Python",30,86
+49,2024-09-30,Austin,4.8,2590,"Sales, Data Analysis",40,55
+50,2024-09-03,Los Angeles,2.4,1069,"Digital Marketing, Project Management",32,39
+51,2024-02-06,San Jose,8.8,801,"JavaScript, Sales",44,48
+52,2024-10-10,Jacksonville,7.5,4873,"Project Management, UX/UI Design",33,84
+53,2024-09-02,Chicago,12.0,3985,"Data Analysis, JavaScript, Cybersecurity, Python",25,36
+54,2024-03-06,Houston,5.0,124,"Python, Customer Service, Cloud Computing",33,33
+55,2024-03-21,Columbus,11.8,4743,"Project Management, Agile Methodologies, Python, Cybersecurity, UX/UI Design",35,66
+56,2023-11-06,Phoenix,8.4,2699,"UX/UI Design, Python, Digital Marketing, Data Analysis",37,75
+57,2024-08-03,Indianapolis,8.8,3142,"Python, Machine Learning, Digital Marketing",38,45
+58,2024-05-14,Jacksonville,8.2,2353,"Customer Service, Digital Marketing",34,36
+59,2024-09-16,Chicago,4.4,3680,"Data Analysis, JavaScript, Project Management",45,34
+60,2024-10-20,New York,14.0,1242,"Sales, Agile Methodologies",38,35
+61,2024-06-09,Philadelphia,6.9,1879,"UX/UI Design, JavaScript, Cloud Computing, Agile Methodologies, Machine Learning",40,72
+62,2023-12-22,Washington,7.1,2931,"Customer Service, UX/UI Design, Digital Marketing",25,72
+63,2024-09-26,Columbus,10.3,2299,"SQL, Project Management, JavaScript, Sales",46,89
+64,2025-03-16,Dallas,10.3,4407,"Sales, Python",29,82
+65,2024-01-08,Chicago,14.7,3222,"Agile Methodologies, SQL, Sales, Customer Service, Digital Marketing",29,79
+66,2023-12-31,Chicago,8.7,3163,"Cloud Computing, Customer Service, Project Management, Cybersecurity",45,84
+67,2023-12-31,Los Angeles,10.0,1054,"Cybersecurity, Machine Learning, JavaScript, SQL, Data Analysis",48,54
+68,2024-01-26,San Antonio,7.2,3376,"UX/UI Design, SQL, Cloud Computing, JavaScript",26,73
+69,2025-06-22,Dallas,13.3,302,"Digital Marketing, Agile Methodologies, Customer Service, SQL, UX/UI Design",49,52
+70,2023-11-28,Chicago,9.8,1935,"Python, Sales",46,59
+71,2024-11-01,San Diego,13.7,4140,"Data Analysis, Cloud Computing, UX/UI Design, Machine Learning",46,45
+72,2024-05-07,Los Angeles,6.4,2012,"Python, Agile Methodologies, Digital Marketing, Machine Learning",28,48
+73,2024-06-21,Fort Worth,6.6,3974,"Digital Marketing, SQL, JavaScript",29,71
+74,2024-03-09,Indianapolis,5.9,4131,"JavaScript, SQL",36,53
+75,2024-10-01,Denver,11.4,1404,"Cybersecurity, Customer Service",25,39
+76,2023-12-13,Columbus,14.9,1216,"Data Analysis, Cloud Computing, UX/UI Design, JavaScript, Project Management",48,71
+77,2023-09-26,Houston,4.2,889,"Sales, Data Analysis, Digital Marketing, SQL, JavaScript",30,78
+78,2024-03-16,Dallas,7.7,284,"Cloud Computing, Digital Marketing, Agile Methodologies, Machine Learning, Sales",41,64
+79,2025-05-09,San Antonio,2.4,4337,"Data Analysis, SQL, JavaScript, Python, Cybersecurity",45,87
+80,2025-04-12,Washington,2.6,4469,"Cybersecurity, JavaScript, Customer Service, UX/UI Design, Cloud Computing",37,57
+81,2025-06-10,Charlotte,7.5,2298,"UX/UI Design, Customer Service, Sales, Cloud Computing",46,62
+82,2024-03-11,Charlotte,15.0,3203,"Data Analysis, Cybersecurity, SQL, Project Management, Sales",50,50
+83,2024-10-13,San Antonio,7.7,4373,"Data Analysis, Project Management",40,86
+84,2023-11-30,Austin,2.0,303,"Project Management, Python, Customer Service, JavaScript",30,51
+85,2023-09-29,Columbus,8.8,1163,"SQL, Customer Service",32,33
+86,2024-07-28,Dallas,14.0,4904,"UX/UI Design, Cloud Computing",43,70
+87,2023-12-20,Washington,13.6,4415,"Customer Service, Data Analysis, Cloud Computing, SQL, Digital Marketing",33,71
+88,2025-07-24,Seattle,10.6,4274,"Agile Methodologies, Project Management, Machine Learning, Customer Service",46,44
+89,2024-11-26,Los Angeles,13.5,219,"Python, Data Analysis, Project Management",38,81
+90,2024-06-10,Chicago,4.1,1122,"Customer Service, Cloud Computing",36,87
+91,2024-01-13,Seattle,6.3,829,"Project Management, JavaScript, Digital Marketing",32,34
+92,2023-11-06,Denver,7.5,4026,"Project Management, Digital Marketing",38,56
+93,2024-08-17,Charlotte,5.0,1280,"Cloud Computing, Sales, Project Management, Customer Service",49,86
+94,2023-08-07,Seattle,13.7,4251,"Cybersecurity, SQL, UX/UI Design",47,35
+95,2024-02-29,Seattle,10.2,2029,"JavaScript, Agile Methodologies",40,55
+96,2025-07-08,Dallas,6.2,1032,"Cloud Computing, Sales, Machine Learning",37,90
+97,2024-02-01,San Diego,11.8,348,"Cybersecurity, Sales, JavaScript, Agile Methodologies, UX/UI Design",39,34
+98,2024-09-02,Jacksonville,13.6,3087,"SQL, Machine Learning, Python, Project Management, Sales",25,37
+99,2023-11-07,Chicago,2.4,1109,"Project Management, Python, Agile Methodologies",39,62
+100,2023-10-12,Fort Worth,5.0,1116,"JavaScript, Sales, Cybersecurity, Cloud Computing",25,68
+101,2025-04-09,Washington,7.0,3567,"Project Management, UX/UI Design, JavaScript, Customer Service",37,38
+102,2025-07-20,Dallas,10.8,2858,"Cloud Computing, Agile Methodologies, Python",40,35
+103,2025-05-06,Washington,14.3,3423,"Project Management, Data Analysis, Customer Service, JavaScript",45,77
+104,2024-06-28,Chicago,9.3,4342,"Agile Methodologies, Project Management, UX/UI Design",43,66
+105,2023-12-06,San Diego,10.0,1100,"Cybersecurity, Customer Service, Sales, JavaScript",38,62
+106,2024-04-08,Jacksonville,8.4,1929,"Cloud Computing, Agile Methodologies, Project Management, Data Analysis, Digital Marketing",41,71
+107,2023-10-04,Houston,4.4,4011,"Cloud Computing, SQL, Python, Project Management",48,42
+108,2024-11-23,Dallas,5.6,829,"JavaScript, Machine Learning, Digital Marketing, Customer Service",42,71
+109,2023-12-12,Fort Worth,14.5,3794,"Cybersecurity, Python",39,33
+110,2023-09-04,San Francisco,7.3,2200,"Cloud Computing, Sales",38,61
+111,2024-05-30,Jacksonville,8.0,2604,"Data Analysis, Agile Methodologies, Cybersecurity, JavaScript, Sales",45,70
+112,2023-12-01,Indianapolis,5.5,1182,"UX/UI Design, Digital Marketing, SQL, Python",43,66
+113,2024-09-02,Charlotte,5.6,3238,"Project Management, Customer Service, JavaScript, Data Analysis, Machine Learning",33,69
+114,2023-08-22,New York,3.1,1460,"JavaScript, Agile Methodologies, Data Analysis",25,73
+115,2023-12-19,Columbus,11.2,2325,"JavaScript, Sales, Customer Service",28,66
+116,2024-01-13,San Francisco,9.2,1592,"Agile Methodologies, Cybersecurity, Data Analysis",49,67
+117,2024-02-07,Austin,4.7,4884,"Customer Service, SQL, Agile Methodologies, UX/UI Design",29,70
+118,2025-07-07,Philadelphia,10.9,1041,"Python, Project Management, Machine Learning",45,57
+119,2025-05-28,Denver,4.3,843,"Customer Service, Cloud Computing, Machine Learning, JavaScript",49,65
+120,2023-09-03,Los Angeles,7.7,2318,"Machine Learning, UX/UI Design, Project Management, Python",40,86
+121,2023-11-25,Washington,13.9,3083,"UX/UI Design, Machine Learning, Python, Sales, Agile Methodologies",25,41
+122,2024-12-27,Indianapolis,9.0,3927,"JavaScript, Sales, Python, SQL, Customer Service",38,63
+123,2024-01-21,Chicago,7.7,4495,"Cloud Computing, Digital Marketing, Sales, Cybersecurity",30,66
+124,2025-06-12,Phoenix,4.5,4281,"Cloud Computing, Agile Methodologies, UX/UI Design, Python",28,67
+125,2025-07-19,Los Angeles,10.8,4477,"JavaScript, Sales, Project Management, Digital Marketing",50,79
+126,2024-05-26,Washington,12.2,2980,"Cloud Computing, Digital Marketing, JavaScript",35,61
+127,2023-10-24,Houston,7.4,2322,"UX/UI Design, Agile Methodologies",48,43
+128,2025-03-23,Denver,10.7,3762,"JavaScript, SQL",33,37
+129,2024-04-19,Chicago,11.9,3945,"Project Management, Machine Learning, Agile Methodologies",48,43
+130,2024-08-08,Philadelphia,10.5,2145,"UX/UI Design, Customer Service",37,51
+131,2024-06-30,Indianapolis,10.2,79,"Agile Methodologies, Customer Service, UX/UI Design",49,66
+132,2025-05-28,San Jose,2.3,4197,"Python, Customer Service",36,73
+133,2024-10-05,Fort Worth,2.8,4464,"Customer Service, Python, Cybersecurity, Sales",44,55
+134,2023-09-10,San Antonio,10.3,1355,"JavaScript, UX/UI Design, Digital Marketing",43,76
+135,2025-03-20,Austin,14.3,3838,"Digital Marketing, Customer Service, Cloud Computing, Project Management, Machine Learning",47,44
+136,2024-02-02,San Diego,10.3,1498,"SQL, Digital Marketing, Project Management, Cloud Computing, Customer Service",33,31
+137,2025-03-15,San Francisco,2.3,370,"Sales, UX/UI Design",45,88
+138,2024-03-22,Los Angeles,4.6,871,"Data Analysis, SQL",49,74
+139,2023-10-17,San Francisco,13.0,2235,"Agile Methodologies, Customer Service, JavaScript, Data Analysis",27,63
+140,2024-12-21,Columbus,10.9,926,"JavaScript, SQL",25,67
+141,2023-11-11,Fort Worth,12.9,708,"JavaScript, UX/UI Design, Data Analysis, Cloud Computing, Python",27,31
+142,2024-05-28,Columbus,13.1,753,"Python, Cloud Computing, Agile Methodologies",39,73
+143,2024-06-29,Washington,5.9,2943,"Machine Learning, Data Analysis, Project Management, UX/UI Design, Cloud Computing",42,58
+144,2023-08-01,Denver,11.8,500,"Customer Service, Python, Project Management, Machine Learning, UX/UI Design",28,54
+145,2024-01-14,Los Angeles,12.4,501,"Customer Service, Cloud Computing",50,75
+146,2025-01-16,Austin,6.0,2169,"UX/UI Design, SQL, Project Management, JavaScript, Cloud Computing",43,47
+147,2024-02-16,Chicago,7.2,4331,"Project Management, Cybersecurity, JavaScript, Customer Service",38,57
+148,2024-05-01,San Antonio,12.9,3867,"Customer Service, Agile Methodologies, Data Analysis",43,33
+149,2024-01-12,Chicago,4.9,2489,"Cloud Computing, Customer Service, Machine Learning, Cybersecurity, Agile Methodologies",42,48
+150,2024-12-12,San Jose,7.9,354,"Digital Marketing, UX/UI Design, Cloud Computing, SQL",26,86
+151,2025-04-06,Jacksonville,13.3,4075,"Customer Service, Cloud Computing, SQL, Python, Cybersecurity",45,34
+152,2025-02-13,Chicago,13.0,882,"Customer Service, SQL",35,72
+153,2025-04-13,San Diego,7.1,3760,"Agile Methodologies, Machine Learning",36,59
+154,2024-01-29,San Diego,2.2,4421,"Customer Service, SQL, UX/UI Design, Data Analysis",30,57
+155,2025-01-09,Philadelphia,11.0,2967,"Project Management, Digital Marketing, Customer Service",42,80
+156,2024-11-03,San Jose,7.4,421,"Data Analysis, Project Management, Python, Machine Learning",38,57
+157,2024-07-19,Austin,10.6,3341,"Cloud Computing, Python, Sales, JavaScript, Agile Methodologies",42,89
+158,2024-01-14,San Diego,13.1,1159,"Agile Methodologies, SQL, Cloud Computing, Sales, Data Analysis",38,81
+159,2025-04-25,San Jose,8.3,3670,"Python, Sales, Cybersecurity, Data Analysis, Digital Marketing",34,57
+160,2024-06-22,Columbus,12.2,3466,"SQL, Python, Cybersecurity, Digital Marketing, Cloud Computing",25,40
+161,2025-05-14,Houston,3.9,1654,"Agile Methodologies, SQL, Sales, Cloud Computing, Data Analysis",36,47
+162,2023-10-07,Fort Worth,4.6,4556,"Customer Service, Sales, SQL",38,86
+163,2025-07-07,Washington,6.0,2094,"Python, Cybersecurity, Sales, Agile Methodologies",27,34
+164,2024-04-24,San Antonio,11.1,3857,"UX/UI Design, Cloud Computing, Python, Cybersecurity",25,89
+165,2025-05-12,Phoenix,2.5,3570,"Project Management, Cloud Computing, Sales, Agile Methodologies, Python",26,73
+166,2024-05-17,Chicago,2.2,4742,"UX/UI Design, Digital Marketing, Python, Sales",25,63
+167,2024-07-05,Phoenix,3.3,2933,"Agile Methodologies, Project Management",44,53
+168,2024-05-05,Seattle,11.5,3589,"Agile Methodologies, SQL",31,59
+169,2024-08-07,Chicago,2.9,4451,"Cybersecurity, Cloud Computing, Machine Learning, Python",43,67
+170,2024-08-28,Jacksonville,8.9,4845,"Cloud Computing, Digital Marketing, Sales, SQL, Project Management",39,49
+171,2025-05-31,Indianapolis,10.9,3157,"Cybersecurity, Sales, Data Analysis",27,30
+172,2025-02-21,Seattle,10.6,3199,"SQL, Project Management",42,74
+173,2024-03-25,San Jose,11.5,395,"Sales, UX/UI Design, Data Analysis, Agile Methodologies",43,56
+174,2024-07-29,Phoenix,3.9,2535,"Digital Marketing, Project Management",47,65
+175,2024-10-09,San Jose,7.5,2917,"Digital Marketing, Agile Methodologies",39,81
+176,2025-04-25,Washington,11.1,60,"SQL, Project Management",26,54
+177,2023-12-22,Jacksonville,11.4,3795,"Agile Methodologies, Customer Service, Project Management",33,54
+178,2025-04-15,Columbus,3.9,1771,"UX/UI Design, Cloud Computing, Customer Service, Sales",34,83
+179,2025-04-01,Denver,11.4,309,"Data Analysis, Cybersecurity, Python",42,57
+180,2023-09-08,Dallas,14.0,1889,"Sales, Customer Service, Project Management, UX/UI Design",44,51
+181,2024-03-10,Austin,5.1,4997,"Cloud Computing, Project Management, SQL, UX/UI Design, JavaScript",43,31
+182,2024-07-03,Dallas,5.1,1337,"Cloud Computing, Customer Service, Machine Learning, JavaScript, Cybersecurity",43,84
+183,2025-05-14,Washington,2.2,4719,"Agile Methodologies, Cloud Computing, Customer Service, JavaScript",46,32
+184,2024-01-22,Los Angeles,8.9,1796,"Agile Methodologies, Python, Customer Service, Machine Learning, Cloud Computing",34,87
+185,2024-03-18,Phoenix,10.4,3549,"Cybersecurity, JavaScript, Cloud Computing, Machine Learning",49,62
+186,2023-09-10,Dallas,6.6,1621,"Agile Methodologies, JavaScript, Customer Service",48,40
+187,2023-10-15,Dallas,9.5,4426,"Cloud Computing, Agile Methodologies, Digital Marketing, Data Analysis, JavaScript",29,78
+188,2023-09-01,Houston,5.7,3963,"Customer Service, Agile Methodologies, Cybersecurity, UX/UI Design",25,48
+189,2024-07-08,Seattle,6.3,3509,"Cloud Computing, UX/UI Design, Machine Learning, Sales",40,51
+190,2024-06-22,Dallas,12.9,502,"Cloud Computing, Data Analysis, UX/UI Design",50,35
+191,2025-07-01,Seattle,9.4,3838,"Agile Methodologies, SQL, Cybersecurity, Python",46,68
+192,2024-02-18,Jacksonville,12.8,199,"Machine Learning, SQL, Data Analysis",45,33
+193,2024-12-05,New York,3.2,4809,"Python, JavaScript",31,90
+194,2023-09-16,Fort Worth,4.9,164,"Data Analysis, SQL, JavaScript, Machine Learning",50,40
+195,2024-07-17,San Antonio,10.7,3186,"JavaScript, Cybersecurity, Cloud Computing, Data Analysis",48,51
+196,2025-02-21,Charlotte,12.8,3846,"JavaScript, Cloud Computing, Agile Methodologies, Customer Service, Digital Marketing",29,88
+197,2024-12-22,San Jose,7.6,3388,"Cybersecurity, Digital Marketing",50,58
+198,2023-12-27,Los Angeles,13.7,3091,"Cloud Computing, Agile Methodologies",42,60
+199,2024-08-09,Phoenix,6.3,1395,"JavaScript, Cybersecurity, Python, Sales",50,81
+200,2023-11-22,Seattle,14.0,483,"Customer Service, Data Analysis, Machine Learning, Digital Marketing",40,65
+201,2023-10-16,San Antonio,11.3,3137,"JavaScript, Sales, Customer Service, Cloud Computing, Project Management",48,44
+202,2024-11-07,Washington,14.6,2512,"Customer Service, Digital Marketing, Cybersecurity, Project Management",50,34
+203,2025-06-05,Philadelphia,13.6,552,"JavaScript, Cloud Computing",30,77
+204,2024-06-13,Houston,12.7,802,"Project Management, Digital Marketing, Cybersecurity",29,43
+205,2024-07-01,Phoenix,9.4,2020,"Data Analysis, Sales, Python, Digital Marketing, SQL",33,62
+206,2024-09-17,San Francisco,4.0,2207,"JavaScript, Agile Methodologies, Machine Learning, Digital Marketing",29,83
+207,2025-03-20,San Antonio,14.6,3118,"Customer Service, Agile Methodologies, UX/UI Design",46,76
+208,2024-08-10,Charlotte,4.0,3385,"Python, Machine Learning, SQL, Agile Methodologies",34,74
+209,2025-03-28,Dallas,14.2,1599,"Customer Service, Python, SQL, Agile Methodologies",39,72
+210,2023-10-14,San Antonio,14.1,947,"Digital Marketing, Data Analysis, UX/UI Design, Python, Machine Learning",40,43
+211,2024-02-09,San Diego,7.1,3401,"Python, Customer Service, Digital Marketing, Agile Methodologies, UX/UI Design",31,47
+212,2024-06-21,San Francisco,7.6,4668,"Sales, JavaScript",49,41
+213,2024-11-24,Phoenix,9.5,1862,"Cloud Computing, UX/UI Design",34,85
+214,2023-12-09,Jacksonville,11.3,3953,"Agile Methodologies, SQL, Cybersecurity, Python",26,54
+215,2024-01-05,Columbus,4.0,1230,"Sales, Machine Learning",30,45
+216,2025-01-31,Indianapolis,14.5,3272,"Digital Marketing, Data Analysis",34,72
+217,2024-01-05,Phoenix,6.1,3235,"Cybersecurity, Customer Service, Data Analysis",26,43
+218,2024-01-06,San Antonio,10.5,2547,"Python, JavaScript, Sales, Agile Methodologies, Machine Learning",31,36
+219,2023-12-14,Philadelphia,9.4,2210,"Cloud Computing, UX/UI Design, Project Management",32,83
+220,2023-08-04,San Antonio,9.1,1103,"UX/UI Design, SQL, Cybersecurity, Data Analysis",35,57
+221,2023-09-22,Houston,7.2,2216,"Data Analysis, Project Management, Customer Service, SQL, Python",48,57
+222,2024-12-27,Jacksonville,11.4,1519,"Sales, Machine Learning, Python",46,37
+223,2024-02-24,Fort Worth,3.2,106,"UX/UI Design, Cloud Computing, Project Management, SQL",25,65
+224,2025-05-15,San Antonio,14.1,3225,"Agile Methodologies, Python, Sales, Digital Marketing",29,84
+225,2025-02-05,Phoenix,11.4,1152,"Sales, Data Analysis, Cloud Computing, Python",47,76
+226,2024-04-05,Philadelphia,3.6,3819,"Cybersecurity, Digital Marketing",44,59
+227,2024-12-04,Philadelphia,8.5,1802,"Machine Learning, SQL, UX/UI Design",26,80
+228,2024-08-23,Columbus,2.1,3606,"Machine Learning, Cybersecurity",25,82
+229,2023-09-05,Washington,4.0,1812,"Project Management, Agile Methodologies, Cloud Computing",28,40
+230,2024-07-30,San Diego,11.4,3719,"Customer Service, Python, Agile Methodologies, JavaScript, UX/UI Design",37,51
+231,2024-08-27,Fort Worth,13.9,2805,"Cloud Computing, UX/UI Design, Sales, Cybersecurity",45,45
+232,2023-09-29,New York,4.6,603,"Python, Sales, Project Management, SQL, Agile Methodologies",39,75
+233,2023-09-03,New York,9.0,1928,"Python, Customer Service",39,73
+234,2024-07-20,San Jose,11.4,1003,"Project Management, Cloud Computing, Digital Marketing, Machine Learning",30,80
+235,2024-01-23,Charlotte,8.0,1272,"Sales, UX/UI Design, Machine Learning",41,77
+236,2023-08-24,Indianapolis,9.3,2540,"Python, Digital Marketing, JavaScript",32,47
+237,2025-04-13,Jacksonville,5.5,2056,"Machine Learning, JavaScript",50,42
+238,2025-02-27,Chicago,7.9,2357,"Data Analysis, UX/UI Design, Cloud Computing, JavaScript",29,64
+239,2023-12-18,San Francisco,13.3,1589,"Agile Methodologies, Python, Project Management, Cloud Computing",39,54
+240,2024-11-05,Seattle,4.4,735,"Cloud Computing, Python",27,59
+241,2025-06-10,San Francisco,12.4,3254,"UX/UI Design, Data Analysis, Sales",41,52
+242,2023-11-26,Los Angeles,8.4,708,"Agile Methodologies, Machine Learning",37,40
+243,2024-09-13,Austin,2.7,1734,"Machine Learning, Customer Service, Agile Methodologies",37,79
+244,2024-12-31,Seattle,13.1,682,"Python, Customer Service, Data Analysis, JavaScript, Cybersecurity",38,44
+245,2024-06-18,Columbus,5.0,126,"Machine Learning, Project Management",44,45
+246,2025-02-15,Washington,3.2,1326,"Project Management, Data Analysis, Digital Marketing, SQL, Machine Learning",36,37
+247,2024-10-09,Fort Worth,12.2,4537,"SQL, Cloud Computing",40,47
+248,2024-06-17,San Diego,15.0,813,"Digital Marketing, Machine Learning, Agile Methodologies, Python, JavaScript",29,80
+249,2024-12-17,Dallas,4.1,1647,"Machine Learning, Digital Marketing, Customer Service, SQL, Python",37,81
+250,2025-02-15,Dallas,10.5,128,"Python, SQL",25,34
+251,2024-10-25,Indianapolis,3.3,3921,"Python, Cloud Computing, Agile Methodologies, Digital Marketing",47,74
+252,2024-11-14,Los Angeles,7.2,2206,"Customer Service, Data Analysis",49,49
+253,2024-11-14,Indianapolis,9.3,574,"Project Management, Sales",44,59
+254,2025-02-22,San Jose,2.4,3301,"UX/UI Design, JavaScript, Digital Marketing, Cybersecurity, Python",45,52
+255,2023-10-26,Phoenix,14.5,1011,"SQL, Project Management, Python",26,43
+256,2025-03-08,Philadelphia,11.4,1976,"Machine Learning, Cybersecurity",43,87
+257,2025-06-28,Jacksonville,8.9,3332,"Customer Service, Sales",29,41
+258,2025-02-05,Chicago,14.8,1899,"Customer Service, SQL",32,49
+259,2024-10-10,Los Angeles,12.6,1740,"Cybersecurity, SQL, JavaScript",50,83
+260,2023-08-08,San Antonio,4.6,445,"Machine Learning, Project Management, Sales, Data Analysis, Agile Methodologies",43,54
+261,2025-01-23,Austin,7.2,3856,"UX/UI Design, Project Management, Cloud Computing, Machine Learning, Sales",36,41
+262,2024-06-14,Los Angeles,10.9,2318,"Cloud Computing, Project Management, Sales",30,69
+263,2023-11-27,San Francisco,9.2,542,"SQL, Digital Marketing",49,72
+264,2024-06-05,New York,9.2,1557,"Cloud Computing, Customer Service, Cybersecurity, UX/UI Design",49,45
+265,2024-06-19,Los Angeles,7.6,1699,"Project Management, Cybersecurity, Python, Sales",32,71
+266,2024-01-21,Chicago,11.7,1493,"Customer Service, Python",48,90
+267,2024-02-16,San Antonio,13.5,4826,"Project Management, SQL",44,87
+268,2025-06-02,Chicago,7.0,3944,"Cybersecurity, Machine Learning, Python",46,43
+269,2023-11-09,San Francisco,9.5,272,"Machine Learning, Sales",25,58
+270,2025-07-20,Seattle,9.8,663,"Cloud Computing, SQL, Cybersecurity, Customer Service",47,39
+271,2024-11-06,Dallas,3.5,3243,"Cybersecurity, UX/UI Design, JavaScript",30,54
+272,2024-04-12,Columbus,11.9,4500,"Digital Marketing, Customer Service, Data Analysis, UX/UI Design",35,72
+273,2025-04-07,Phoenix,5.7,1072,"Cloud Computing, Agile Methodologies",27,63
+274,2024-07-02,Indianapolis,2.7,455,"Digital Marketing, Machine Learning, Data Analysis, Python, Sales",49,69
+275,2024-12-12,Fort Worth,11.3,2753,"JavaScript, SQL, Project Management",48,88
+276,2025-03-20,Phoenix,9.7,1016,"Cybersecurity, Sales, JavaScript, Data Analysis, Project Management",33,48
+277,2024-03-27,Fort Worth,4.6,4881,"Cybersecurity, JavaScript, Sales, Agile Methodologies, Python",48,56
+278,2023-08-03,Charlotte,8.5,457,"SQL, Sales, Machine Learning, Python",49,49
+279,2024-02-20,Charlotte,12.2,2889,"Python, Cybersecurity, Customer Service",49,58
+280,2024-08-03,Jacksonville,15.0,2912,"Cloud Computing, Digital Marketing, Data Analysis",44,58
+281,2023-12-31,Columbus,13.0,3596,"Cybersecurity, Digital Marketing",38,44
+282,2024-05-15,Jacksonville,6.8,2746,"Agile Methodologies, Project Management, Machine Learning, Customer Service, Digital Marketing",47,36
+283,2024-05-07,San Antonio,2.1,1750,"SQL, UX/UI Design, Cloud Computing",26,60
+284,2024-01-18,New York,6.7,3423,"SQL, Data Analysis",49,42
+285,2024-06-14,Washington,8.8,3102,"Machine Learning, UX/UI Design, Agile Methodologies",39,67
+286,2025-05-09,Chicago,11.8,186,"Customer Service, JavaScript",30,78
+287,2024-12-26,Seattle,12.0,4464,"Cloud Computing, Customer Service, Machine Learning, Cybersecurity",49,63
+288,2023-08-10,Charlotte,13.9,3872,"Agile Methodologies, Data Analysis",44,61
+289,2024-04-01,Houston,8.8,4437,"Cybersecurity, JavaScript",38,55
+290,2023-08-09,San Francisco,3.7,2384,"Digital Marketing, Agile Methodologies, JavaScript, Sales, Cloud Computing",50,31
+291,2025-01-05,San Francisco,11.0,4948,"Agile Methodologies, Customer Service, Data Analysis, SQL, Python",42,59
+292,2024-04-23,Seattle,7.7,1518,"Project Management, Machine Learning, Agile Methodologies, Customer Service",39,42
+293,2023-10-26,Charlotte,10.2,1168,"JavaScript, Machine Learning, Sales, Project Management, Customer Service",25,90
+294,2025-07-08,New York,4.2,485,"JavaScript, Customer Service",32,75
+295,2023-09-16,Washington,7.5,4376,"SQL, JavaScript",49,86
+296,2024-12-02,Chicago,4.5,1412,"UX/UI Design, JavaScript, SQL, Customer Service",29,86
+297,2024-09-21,San Diego,11.4,4129,"UX/UI Design, Python, Agile Methodologies, Customer Service, Project Management",27,69
+298,2023-07-31,Los Angeles,9.0,2500,"Cybersecurity, UX/UI Design, JavaScript",31,78
+299,2024-07-25,Chicago,7.1,4290,"JavaScript, Machine Learning, Agile Methodologies, Data Analysis",49,74
+300,2024-01-17,Houston,10.5,3920,"SQL, Cybersecurity, Python, UX/UI Design",40,69
+301,2024-11-27,Washington,4.4,3974,"JavaScript, Sales, UX/UI Design, Digital Marketing, Data Analysis",40,77
+302,2023-10-09,Philadelphia,9.2,2271,"Python, Machine Learning, Project Management, SQL",28,34
+303,2025-04-26,Chicago,4.8,1798,"Project Management, UX/UI Design, Machine Learning, Data Analysis",50,35
+304,2024-12-17,Indianapolis,2.8,4645,"Cybersecurity, Digital Marketing, Cloud Computing, Customer Service",29,37
+305,2024-03-28,Seattle,4.5,2804,"Customer Service, JavaScript, Data Analysis, UX/UI Design, Cloud Computing",30,50
+306,2023-10-16,Fort Worth,13.6,1756,"Sales, UX/UI Design, Machine Learning, Python, SQL",25,71
+307,2024-11-30,Jacksonville,13.5,1421,"UX/UI Design, Agile Methodologies",28,78
+308,2024-01-24,Jacksonville,11.7,1930,"Data Analysis, Digital Marketing, Sales",48,54
+309,2024-11-24,Indianapolis,6.8,2663,"Project Management, Data Analysis, Digital Marketing",34,31
+310,2023-11-30,Philadelphia,13.6,4490,"Cloud Computing, Machine Learning, Project Management",33,41
+311,2025-06-14,San Antonio,3.0,2626,"Project Management, Python, Agile Methodologies, UX/UI Design",27,85
+312,2023-08-18,San Diego,13.6,4752,"Data Analysis, Agile Methodologies, Project Management, Digital Marketing",33,69
+313,2024-03-11,Austin,14.8,1585,"Cybersecurity, Agile Methodologies, JavaScript, Customer Service, Cloud Computing",47,62
+314,2023-12-25,San Antonio,3.9,2276,"Digital Marketing, Machine Learning, Customer Service",38,60
+315,2025-05-04,Chicago,9.9,4477,"Machine Learning, Digital Marketing",36,41
+316,2025-02-24,Philadelphia,2.9,2300,"Python, UX/UI Design, Sales, Data Analysis",28,72
+317,2024-07-12,Dallas,11.5,2952,"JavaScript, Cybersecurity, Machine Learning, Project Management, Python",27,82
+318,2024-05-19,Phoenix,10.1,4353,"Machine Learning, Customer Service",50,89
+319,2023-11-08,Jacksonville,11.8,1213,"UX/UI Design, SQL, Digital Marketing",40,62
+320,2024-08-03,Austin,11.4,3546,"Sales, Python, Digital Marketing",40,44
+321,2024-07-28,Washington,12.2,869,"Data Analysis, UX/UI Design, Cybersecurity",42,35
+322,2025-04-06,San Jose,4.2,4434,"Customer Service, Agile Methodologies, Digital Marketing, Python, Data Analysis",34,86
+323,2024-05-19,Fort Worth,11.5,1405,"Python, Data Analysis, UX/UI Design, Agile Methodologies, Sales",31,61
+324,2024-06-03,San Francisco,15.0,1947,"Python, Customer Service, SQL, Data Analysis, Cybersecurity",32,60
+325,2025-04-22,Charlotte,7.3,2509,"Data Analysis, SQL, UX/UI Design, Project Management",27,79
+326,2023-09-29,San Jose,14.6,4239,"Cloud Computing, Cybersecurity, JavaScript, Machine Learning",37,36
+327,2023-09-27,Houston,12.1,3778,"Data Analysis, Customer Service",40,37
+328,2024-04-27,Charlotte,10.7,1246,"Project Management, UX/UI Design, Data Analysis, Machine Learning, Agile Methodologies",26,75
+329,2025-03-23,Jacksonville,10.5,4793,"JavaScript, Agile Methodologies, UX/UI Design, Machine Learning, Project Management",47,86
+330,2024-07-30,San Diego,13.9,2954,"Digital Marketing, SQL, Cybersecurity, Customer Service, Python",38,68
+331,2024-01-01,Charlotte,8.4,1515,"UX/UI Design, Project Management, JavaScript",26,40
+332,2024-11-05,Washington,5.4,770,"Project Management, Machine Learning, Data Analysis, Customer Service",26,61
+333,2025-06-18,New York,10.1,3101,"Project Management, Cybersecurity, Agile Methodologies",39,63
+334,2024-03-27,Chicago,10.5,2982,"Digital Marketing, Cybersecurity, SQL, Project Management",41,84
+335,2024-12-19,Denver,12.5,4232,"SQL, Sales",33,71
+336,2023-10-23,Columbus,9.2,1836,"Python, Digital Marketing, Cybersecurity",41,64
+337,2023-09-26,Denver,6.0,4299,"JavaScript, Project Management, Sales",44,51
+338,2025-05-14,Seattle,6.2,4495,"Project Management, Agile Methodologies, Cybersecurity",35,71
+339,2025-05-24,Denver,10.1,4848,"JavaScript, Project Management, UX/UI Design, SQL, Machine Learning",33,55
+340,2025-01-30,Los Angeles,13.6,2103,"Agile Methodologies, Project Management",47,47
+341,2023-11-10,Columbus,9.8,2980,"UX/UI Design, Customer Service",43,83
+342,2025-07-11,Jacksonville,8.0,2480,"UX/UI Design, Machine Learning",49,76
+343,2024-09-14,Phoenix,7.5,128,"Cybersecurity, Digital Marketing",34,35
+344,2023-12-05,Dallas,5.1,720,"Project Management, Machine Learning",49,47
+345,2023-12-08,San Jose,12.2,2287,"Data Analysis, Customer Service, Python",35,44
+346,2023-11-11,Indianapolis,13.0,2474,"UX/UI Design, Machine Learning, Agile Methodologies",25,65
+347,2025-06-21,Charlotte,7.0,3395,"Digital Marketing, Cybersecurity",48,86
+348,2024-11-19,Jacksonville,6.3,148,"Cybersecurity, Sales, Machine Learning, Data Analysis",50,83
+349,2024-11-11,San Jose,14.1,2098,"Agile Methodologies, SQL, Sales",46,75
+350,2025-01-06,Phoenix,10.1,101,"Cloud Computing, Python, JavaScript, Sales, Cybersecurity",33,32
+351,2024-06-27,Los Angeles,14.4,4716,"Sales, Cloud Computing, Python, Data Analysis, SQL",42,70
+352,2025-02-11,Denver,4.5,699,"Agile Methodologies, Sales, Python",28,55
+353,2025-07-11,Phoenix,7.0,1602,"Agile Methodologies, JavaScript, SQL",27,66
+354,2024-11-25,San Francisco,14.5,611,"Digital Marketing, Data Analysis, UX/UI Design, Cloud Computing, Customer Service",50,48
+355,2024-10-26,Washington,10.4,1310,"SQL, Digital Marketing, Project Management",30,58
+356,2024-06-18,San Antonio,3.5,1330,"Project Management, Sales, Machine Learning, Customer Service",38,60
+357,2024-12-07,San Francisco,12.8,3489,"Cloud Computing, Machine Learning, Customer Service, Digital Marketing",46,41
+358,2024-01-14,Dallas,3.3,2621,"UX/UI Design, Sales, Agile Methodologies, Project Management, SQL",27,34
+359,2024-11-06,Chicago,14.1,762,"Customer Service, Cybersecurity, UX/UI Design",41,32
+360,2023-08-25,San Diego,13.1,544,"Cybersecurity, Project Management, Cloud Computing, SQL",39,47
+361,2025-05-25,Dallas,2.9,2390,"Sales, Python, Digital Marketing, Data Analysis",48,80
+362,2024-05-05,Seattle,6.9,2334,"Data Analysis, Python",29,88
+363,2025-06-16,Chicago,4.3,1112,"SQL, Machine Learning, Data Analysis, Python, Sales",32,47
+364,2023-09-20,Washington,2.3,1370,"SQL, UX/UI Design, Digital Marketing, Cloud Computing",38,45
+365,2024-11-13,San Antonio,2.7,4678,"SQL, UX/UI Design, JavaScript, Cloud Computing",36,55
+366,2024-02-25,Indianapolis,4.1,3175,"Cybersecurity, Sales",35,36
+367,2024-02-01,Houston,8.7,4604,"Python, Sales, Machine Learning, Customer Service",50,41
+368,2024-07-29,Denver,4.1,2051,"JavaScript, Project Management, Cloud Computing, Python",25,36
+369,2023-10-15,San Antonio,6.9,2943,"Project Management, Digital Marketing",50,45
+370,2025-02-27,San Jose,2.7,1626,"Python, Sales, Agile Methodologies, Cloud Computing",33,84
+371,2023-08-25,Dallas,12.6,3489,"Data Analysis, JavaScript, SQL, Customer Service, Sales",50,45
+372,2025-05-07,San Antonio,4.6,1320,"Customer Service, Project Management",44,74
+373,2023-11-14,Fort Worth,8.4,1512,"Sales, Project Management, Agile Methodologies, Cybersecurity, Digital Marketing",45,66
+374,2024-02-06,Seattle,3.5,1331,"Machine Learning, Data Analysis, JavaScript, Customer Service",31,50
+375,2025-02-02,Fort Worth,13.8,1558,"Data Analysis, SQL, Customer Service",36,45
+376,2025-05-15,Denver,9.8,404,"Agile Methodologies, Digital Marketing, Project Management, Python, JavaScript",33,31
+377,2024-11-22,Phoenix,4.7,4441,"Python, Machine Learning, Data Analysis",37,40
+378,2023-12-04,Seattle,9.6,911,"SQL, Sales, Customer Service, Project Management",36,47
+379,2024-02-22,Phoenix,9.0,2843,"Digital Marketing, Sales",49,89
+380,2023-10-02,Houston,11.5,2272,"Agile Methodologies, Digital Marketing",40,45
+381,2025-06-08,Columbus,4.2,2951,"JavaScript, UX/UI Design, SQL, Sales",33,76
+382,2025-01-07,Philadelphia,5.1,1671,"SQL, UX/UI Design, Python",34,75
+383,2024-10-25,Indianapolis,10.5,1605,"Python, Machine Learning",35,90
+384,2025-05-03,San Jose,2.9,514,"Cloud Computing, Data Analysis, Project Management, Machine Learning, SQL",29,90
+385,2024-08-17,Denver,14.0,4809,"Machine Learning, Cloud Computing, JavaScript, SQL, Project Management",28,42
+386,2025-05-08,Charlotte,13.2,2731,"Machine Learning, SQL, Cloud Computing",29,59
+387,2024-10-14,Houston,14.1,524,"SQL, JavaScript",45,48
+388,2023-11-30,Washington,10.4,4883,"Sales, Cloud Computing, Customer Service, Agile Methodologies",25,58
+389,2025-02-26,Philadelphia,10.5,1371,"UX/UI Design, Sales, Digital Marketing, Project Management, Cloud Computing",44,71
+390,2024-10-14,Columbus,12.1,3286,"JavaScript, Python, Sales, Customer Service",35,35
+391,2024-06-29,Charlotte,6.0,456,"Data Analysis, Machine Learning, Customer Service",47,89
+392,2023-08-09,Jacksonville,14.1,1891,"Sales, Agile Methodologies, Data Analysis, Project Management",41,54
+393,2024-07-06,Washington,6.8,4577,"UX/UI Design, Data Analysis",50,45
+394,2023-11-01,Houston,3.7,776,"Cloud Computing, Sales",37,59
+395,2024-07-18,Fort Worth,5.5,1226,"Customer Service, Cloud Computing, UX/UI Design, Machine Learning, Digital Marketing",38,39
+396,2024-05-28,Indianapolis,12.7,440,"Digital Marketing, JavaScript, Cloud Computing",32,39
+397,2025-02-05,Austin,11.6,1931,"Cybersecurity, Customer Service",41,58
+398,2023-11-11,Seattle,4.7,910,"Digital Marketing, Customer Service, Python, UX/UI Design",31,31
+399,2025-07-24,Philadelphia,3.8,1736,"Cybersecurity, Agile Methodologies",31,59
+400,2025-04-12,San Francisco,12.2,4163,"Cloud Computing, Agile Methodologies, Digital Marketing",36,72
+401,2023-08-13,Chicago,2.9,532,"Customer Service, JavaScript, Digital Marketing, Agile Methodologies",34,85
+402,2024-08-23,New York,12.6,809,"Digital Marketing, Sales, Agile Methodologies",45,47
+403,2025-05-06,Houston,8.7,4713,"UX/UI Design, Machine Learning, Project Management, Python, Cloud Computing",47,90
+404,2025-05-18,Fort Worth,9.3,1578,"Python, Data Analysis, Sales, UX/UI Design",40,81
+405,2025-06-24,Dallas,2.4,4427,"Sales, JavaScript, Cybersecurity",42,89
+406,2025-05-12,Austin,10.1,2776,"JavaScript, Digital Marketing, Machine Learning, Python",27,80
+407,2024-11-27,Columbus,5.4,2013,"Sales, JavaScript, Cybersecurity, UX/UI Design, Project Management",27,68
+408,2024-06-21,San Diego,8.7,4552,"Cloud Computing, Machine Learning, Digital Marketing",50,89
+409,2023-09-14,Denver,11.0,2795,"Python, Cloud Computing, Cybersecurity, SQL, Sales",46,54
+410,2023-12-05,Washington,11.3,4538,"Agile Methodologies, UX/UI Design, Sales, Machine Learning",37,66
+411,2023-10-12,Columbus,8.2,650,"Customer Service, Sales, Data Analysis, Python",32,74
+412,2024-11-03,Charlotte,12.1,4188,"Cloud Computing, Digital Marketing, Customer Service, Agile Methodologies, Cybersecurity",33,39
+413,2025-04-22,Seattle,9.9,4028,"UX/UI Design, Project Management, Python, Digital Marketing",31,89
+414,2023-09-10,Columbus,13.1,1339,"Customer Service, JavaScript, Project Management",27,88
+415,2024-12-03,Washington,2.6,2684,"SQL, Cloud Computing",47,33
+416,2025-01-21,Phoenix,5.8,1221,"Machine Learning, Python, UX/UI Design, Cloud Computing, Project Management",45,70
+417,2024-06-02,San Antonio,6.5,4619,"Sales, JavaScript, Machine Learning",38,71
+418,2023-08-14,Houston,3.2,447,"Project Management, Customer Service",41,38
+419,2025-02-03,San Jose,5.8,1354,"Machine Learning, Python, Cybersecurity, UX/UI Design, Customer Service",31,42
+420,2024-01-27,Charlotte,13.3,4686,"Python, Sales, Machine Learning, SQL",43,30
+421,2025-07-25,Philadelphia,10.2,4434,"Machine Learning, Digital Marketing",44,79
+422,2023-09-27,Washington,11.5,3288,"Cloud Computing, Project Management, UX/UI Design, SQL",32,74
+423,2025-01-15,Los Angeles,9.4,1094,"Digital Marketing, SQL, Cybersecurity, Data Analysis, Python",44,34
+424,2024-11-01,Denver,9.0,1995,"UX/UI Design, Data Analysis, Cybersecurity, JavaScript",31,37
+425,2023-12-26,San Jose,7.1,2568,"Sales, Agile Methodologies, SQL, Machine Learning, Customer Service",42,51
+426,2024-05-12,Denver,2.3,582,"Python, Cloud Computing",45,58
+427,2025-03-25,Indianapolis,7.3,1526,"Cybersecurity, Customer Service, JavaScript, Sales",26,44
+428,2023-11-25,Seattle,14.9,3534,"Cloud Computing, Agile Methodologies",28,39
+429,2024-08-18,Fort Worth,11.2,1181,"Digital Marketing, Data Analysis, UX/UI Design, Python, Customer Service",40,89
+430,2024-11-12,Seattle,6.2,2365,"Python, Sales, JavaScript, Data Analysis, UX/UI Design",48,56
+431,2024-02-03,Seattle,8.8,3385,"Python, Cloud Computing, Sales, Agile Methodologies",27,37
+432,2025-02-02,San Diego,8.1,2548,"Machine Learning, Cloud Computing, Python",34,85
+433,2023-12-07,Washington,3.0,3601,"JavaScript, Data Analysis",25,75
+434,2025-03-25,Denver,6.2,3979,"JavaScript, Python",48,81
+435,2024-01-13,Austin,12.9,3995,"Machine Learning, Digital Marketing, Agile Methodologies, Cybersecurity",41,75
+436,2025-06-05,Jacksonville,5.9,2487,"Machine Learning, Agile Methodologies, JavaScript",45,38
+437,2025-07-22,Houston,13.0,2090,"Project Management, SQL, Digital Marketing, Python, Cybersecurity",50,64
+438,2025-05-05,Dallas,13.5,3033,"Project Management, Digital Marketing, Agile Methodologies",30,66
+439,2024-10-11,Columbus,11.0,3643,"SQL, Cybersecurity, Data Analysis, Python",41,88
+440,2025-06-03,Washington,3.4,3943,"Agile Methodologies, Project Management, SQL, Data Analysis",50,71
+441,2025-07-06,Columbus,4.7,4195,"Cybersecurity, Digital Marketing, Python",28,59
+442,2024-04-06,Philadelphia,3.6,4679,"Python, Digital Marketing, Data Analysis, Cybersecurity",38,67
+443,2025-01-05,Fort Worth,5.3,407,"Agile Methodologies, UX/UI Design, Sales",33,39
+444,2025-06-29,Chicago,12.9,4177,"SQL, Python, Sales, Project Management, Cybersecurity",47,74
+445,2024-12-09,Columbus,3.5,1641,"Data Analysis, Machine Learning, Cybersecurity, Python",48,88
+446,2023-11-23,New York,8.2,3677,"Digital Marketing, Agile Methodologies, JavaScript, Cybersecurity, Sales",37,77
+447,2024-06-05,Houston,9.9,2479,"UX/UI Design, JavaScript",44,70
+448,2025-07-25,San Antonio,9.9,4074,"JavaScript, Agile Methodologies",34,78
+449,2023-11-17,Philadelphia,5.0,4045,"Digital Marketing, Data Analysis, Sales, JavaScript, Cloud Computing",47,66
+450,2025-04-27,Los Angeles,6.9,2260,"Data Analysis, Cloud Computing, Machine Learning, Digital Marketing, Project Management",29,66
+451,2024-11-23,New York,11.8,355,"Project Management, Customer Service, Digital Marketing, UX/UI Design",25,75
+452,2024-11-18,Fort Worth,14.2,2997,"Customer Service, JavaScript, Sales",27,35
+453,2024-10-06,Charlotte,7.9,797,"Sales, Cybersecurity, Data Analysis, Cloud Computing, UX/UI Design",40,63
+454,2024-06-27,Columbus,13.5,120,"Machine Learning, Agile Methodologies, Python",31,88
+455,2023-08-11,Charlotte,4.5,3292,"Python, UX/UI Design",47,35
+456,2024-06-10,San Antonio,11.7,1934,"Machine Learning, Project Management",38,88
+457,2025-02-27,Houston,8.3,4638,"Cloud Computing, Agile Methodologies",33,88
+458,2024-08-20,Fort Worth,7.2,2164,"Python, Cybersecurity",29,64
+459,2024-02-19,Chicago,9.2,3699,"Machine Learning, Agile Methodologies",26,55
+460,2023-10-04,Columbus,6.9,4171,"JavaScript, SQL, Cloud Computing",37,81
+461,2023-10-25,Chicago,12.2,4386,"Data Analysis, Python, Project Management, Cybersecurity, Cloud Computing",44,77
+462,2024-06-26,Indianapolis,4.5,1739,"Sales, UX/UI Design, Data Analysis, Machine Learning",47,65
+463,2025-02-24,San Antonio,9.3,2727,"SQL, Digital Marketing",50,53
+464,2024-03-12,Chicago,14.6,3325,"JavaScript, Data Analysis, Sales",39,50
+465,2025-02-25,Dallas,4.6,3568,"SQL, Machine Learning, Python",48,74
+466,2023-09-18,Austin,6.5,3977,"Customer Service, SQL, JavaScript, UX/UI Design, Project Management",34,79
+467,2024-07-22,Indianapolis,13.8,3892,"Sales, Customer Service, Project Management",44,60
+468,2023-12-11,Columbus,12.0,795,"Python, Cybersecurity",41,42
+469,2023-12-26,Philadelphia,2.2,4407,"Project Management, UX/UI Design",47,85
+470,2024-01-14,Los Angeles,8.7,1417,"Python, Agile Methodologies, JavaScript, SQL",33,83
+471,2024-10-02,Columbus,6.8,618,"SQL, Cybersecurity, Python, JavaScript, Data Analysis",47,81
+472,2025-06-09,Phoenix,3.8,1629,"Cloud Computing, Sales, Agile Methodologies, Machine Learning",28,30
+473,2024-01-30,San Jose,2.7,3898,"Project Management, Cybersecurity, Cloud Computing, SQL",26,70
+474,2025-07-23,New York,11.5,2204,"Digital Marketing, Customer Service, Agile Methodologies",28,52
+475,2024-10-06,San Diego,2.9,2507,"Cloud Computing, Data Analysis",26,31
+476,2023-11-12,Indianapolis,7.1,3832,"Customer Service, Agile Methodologies, Project Management",49,89
+477,2024-12-17,New York,2.7,1781,"Customer Service, UX/UI Design",28,64
+478,2024-12-27,Phoenix,4.9,3773,"Agile Methodologies, SQL",42,58
+479,2024-09-28,Washington,13.3,194,"Sales, Digital Marketing",40,39
+480,2024-08-07,Jacksonville,3.5,1454,"Digital Marketing, UX/UI Design, Project Management",33,71
+481,2025-04-07,San Jose,14.5,4644,"Python, Project Management, JavaScript",25,78
+482,2025-07-07,New York,7.9,2052,"JavaScript, Sales, Cybersecurity, Agile Methodologies, SQL",29,43
+483,2024-07-26,San Francisco,9.5,2886,"Machine Learning, Customer Service",48,66
+484,2024-07-08,Charlotte,9.1,1940,"Customer Service, Python, Data Analysis",39,69
+485,2023-08-20,Washington,8.5,463,"Cloud Computing, Project Management, Machine Learning, Sales",47,63
+486,2024-05-30,San Francisco,11.1,2466,"Cybersecurity, Sales, SQL, Customer Service",49,60
+487,2024-07-16,San Jose,5.8,4214,"UX/UI Design, Agile Methodologies, Python",30,44
+488,2023-10-24,San Jose,7.6,2958,"Customer Service, UX/UI Design",39,47
+489,2024-10-21,Philadelphia,5.9,3360,"Machine Learning, Digital Marketing, Cybersecurity",42,34
+490,2024-07-19,Phoenix,7.3,2790,"Agile Methodologies, UX/UI Design",41,45
+491,2025-04-12,New York,7.7,1106,"Project Management, Cloud Computing, Machine Learning",40,46
+492,2024-02-02,San Francisco,5.9,4265,"Python, Project Management, Agile Methodologies, Machine Learning, Customer Service",47,32
+493,2024-06-07,Washington,2.9,4142,"Data Analysis, Sales, Customer Service, Machine Learning, UX/UI Design",26,84
+494,2024-02-13,Columbus,12.6,591,"Data Analysis, Project Management, UX/UI Design, JavaScript",28,81
+495,2025-05-03,Fort Worth,8.4,4001,"Data Analysis, UX/UI Design",43,66
+496,2024-12-03,San Francisco,14.6,248,"Data Analysis, Sales, UX/UI Design, SQL",44,70
+497,2023-09-04,Los Angeles,8.3,3866,"Digital Marketing, Python, Machine Learning",49,36
+498,2024-05-10,San Francisco,9.2,3616,"UX/UI Design, Project Management, Data Analysis, Customer Service",42,77
+499,2024-10-31,Denver,14.3,3977,"Cybersecurity, Project Management, UX/UI Design",37,48
+500,2024-12-20,Jacksonville,5.3,3459,"Cloud Computing, UX/UI Design, Cybersecurity, Digital Marketing, JavaScript",41,51
+501,2024-04-06,Washington,5.9,2600,"Digital Marketing, Agile Methodologies, Project Management, Customer Service",25,67
+502,2024-08-10,Washington,9.9,2612,"Cloud Computing, Project Management, Agile Methodologies",43,30
+503,2024-10-27,Denver,8.1,1726,"Customer Service, Data Analysis, Cybersecurity",44,86
+504,2023-11-23,Columbus,10.2,2490,"UX/UI Design, Sales",25,55
+505,2024-08-01,Austin,7.5,539,"Python, Project Management",36,70
+506,2024-03-04,Charlotte,13.0,956,"Python, Data Analysis",33,43
+507,2024-01-04,Washington,3.7,3965,"Cybersecurity, Agile Methodologies",39,53
+508,2023-08-18,San Antonio,5.8,3709,"Sales, JavaScript",32,63
+509,2025-03-10,Chicago,7.6,2116,"Data Analysis, Digital Marketing, Cloud Computing",47,35
+510,2024-03-20,Phoenix,8.3,2935,"Cybersecurity, Agile Methodologies, Data Analysis, Digital Marketing",38,49
+511,2024-07-28,Indianapolis,5.3,4407,"Python, JavaScript, Digital Marketing, Customer Service",46,32
+512,2023-09-23,Denver,11.7,3699,"Customer Service, Project Management",38,59
+513,2023-10-14,Columbus,10.0,2218,"Cybersecurity, UX/UI Design",50,68
+514,2025-01-22,San Francisco,8.1,4569,"Machine Learning, Python",40,65
+515,2024-07-08,Indianapolis,4.5,3818,"Python, Cloud Computing, Customer Service, Machine Learning",47,56
+516,2024-02-14,Philadelphia,11.2,2672,"Data Analysis, Customer Service, Cybersecurity",47,58
+517,2023-12-02,Seattle,6.0,3150,"Sales, Agile Methodologies",26,56
+518,2023-10-13,San Antonio,11.6,1211,"UX/UI Design, Digital Marketing, Project Management, Cloud Computing",47,82
+519,2023-09-24,Seattle,6.0,803,"UX/UI Design, Digital Marketing",46,36
+520,2024-08-05,Phoenix,11.4,2136,"Customer Service, Cybersecurity",39,58
+521,2024-02-10,Austin,5.4,4195,"Customer Service, SQL, Agile Methodologies",40,69
+522,2024-11-19,Philadelphia,9.0,60,"Python, Cybersecurity, UX/UI Design, Sales, JavaScript",38,34
+523,2024-12-04,San Francisco,5.3,4006,"Sales, SQL, Customer Service, Python, Machine Learning",36,62
+524,2025-04-07,Phoenix,5.4,4392,"Agile Methodologies, JavaScript, UX/UI Design, SQL, Machine Learning",42,47
+525,2024-02-05,San Diego,5.3,4881,"Digital Marketing, Machine Learning, Cybersecurity",44,69
+526,2023-12-28,San Antonio,10.9,1188,"Cloud Computing, JavaScript, Agile Methodologies",48,80
+527,2023-09-22,Seattle,2.7,870,"Python, Agile Methodologies, Customer Service",35,75
+528,2024-02-13,Charlotte,2.7,1191,"Machine Learning, Agile Methodologies, Digital Marketing, Project Management, UX/UI Design",42,90
+529,2025-04-05,Phoenix,14.7,4525,"Machine Learning, Sales, Python, Customer Service, Cloud Computing",32,73
+530,2024-09-01,Denver,13.9,925,"Agile Methodologies, Customer Service, UX/UI Design, Data Analysis",50,56
+531,2024-03-30,Chicago,13.5,580,"UX/UI Design, Agile Methodologies, Project Management, Digital Marketing, JavaScript",44,74
+532,2024-04-29,Denver,5.1,467,"Cybersecurity, Sales",50,41
+533,2024-09-14,Fort Worth,12.3,292,"JavaScript, Agile Methodologies, SQL, Machine Learning, UX/UI Design",25,50
+534,2024-09-30,Washington,11.3,3732,"Agile Methodologies, Machine Learning, SQL, Sales, Cloud Computing",42,58
+535,2024-08-02,San Jose,10.3,1447,"Data Analysis, UX/UI Design, Agile Methodologies, Machine Learning, Customer Service",43,51
+536,2023-11-20,Philadelphia,14.4,1245,"Cloud Computing, Agile Methodologies, Machine Learning, Project Management",35,60
+537,2025-01-29,Indianapolis,8.4,238,"Cloud Computing, Agile Methodologies, SQL, Cybersecurity",36,47
+538,2024-12-03,Denver,4.2,4516,"Cybersecurity, Machine Learning",46,89
+539,2025-04-29,San Francisco,6.3,363,"Project Management, UX/UI Design, Python, Cybersecurity, Sales",41,45
+540,2024-08-10,Columbus,12.0,2079,"Project Management, JavaScript, Digital Marketing, Agile Methodologies",43,64
+541,2024-01-31,Jacksonville,4.1,954,"Agile Methodologies, Machine Learning",38,43
+542,2023-08-05,Los Angeles,2.7,4652,"Agile Methodologies, Project Management, SQL, Cybersecurity, Customer Service",32,66
+543,2024-12-28,Columbus,4.7,2731,"JavaScript, SQL, Data Analysis, Agile Methodologies",26,85
+544,2024-04-03,Austin,7.8,618,"Python, Data Analysis, Cybersecurity, Project Management",50,77
+545,2025-07-24,Dallas,7.6,1836,"Machine Learning, Project Management, Cloud Computing, Sales, Cybersecurity",49,79
+546,2025-01-10,New York,10.8,3627,"Data Analysis, Digital Marketing, Cloud Computing",47,86
+547,2023-08-16,Phoenix,12.5,4204,"Machine Learning, Project Management, Sales, SQL, UX/UI Design",37,62
+548,2025-04-28,New York,4.7,1403,"Sales, Cybersecurity, SQL, Cloud Computing",35,59
+549,2023-12-22,Indianapolis,12.7,2882,"Python, JavaScript, Project Management",37,80
+550,2024-01-21,Seattle,8.8,581,"Cybersecurity, JavaScript, Digital Marketing",43,50
+551,2024-02-16,San Antonio,6.4,461,"Customer Service, Data Analysis, Python",36,32
+552,2023-10-06,Denver,11.9,54,"Machine Learning, Cybersecurity, Project Management",25,33
+553,2024-01-05,Seattle,13.7,2102,"Agile Methodologies, Sales, Customer Service, Cloud Computing, Machine Learning",35,58
+554,2023-09-17,Dallas,11.3,1562,"Sales, JavaScript, Agile Methodologies",50,41
+555,2025-01-21,Phoenix,13.2,3320,"Machine Learning, Python, Data Analysis",26,33
+556,2023-12-19,Indianapolis,4.1,1431,"Sales, Agile Methodologies",50,76
+557,2024-01-06,San Antonio,7.3,4864,"Agile Methodologies, Machine Learning, Cybersecurity, Digital Marketing, UX/UI Design",47,37
+558,2025-06-30,Phoenix,13.0,3319,"JavaScript, Machine Learning, Digital Marketing, Agile Methodologies, Data Analysis",27,48
+559,2025-07-28,Indianapolis,3.0,3609,"Cloud Computing, Digital Marketing, Python, SQL",47,66
+560,2024-09-29,San Diego,11.4,1940,"Customer Service, Agile Methodologies, Data Analysis, Digital Marketing",49,52
+561,2023-08-11,Denver,3.8,3697,"Cybersecurity, UX/UI Design, JavaScript, Project Management, SQL",26,52
+562,2024-11-27,New York,8.2,1373,"JavaScript, Project Management, Machine Learning",25,80
+563,2024-10-30,Los Angeles,9.6,369,"SQL, Digital Marketing, JavaScript",48,80
+564,2024-04-28,Fort Worth,5.9,2870,"Digital Marketing, Cybersecurity, Sales, SQL",50,35
+565,2024-08-22,Austin,9.7,3092,"Machine Learning, Digital Marketing, UX/UI Design",39,32
+566,2023-12-21,San Antonio,7.0,265,"Cloud Computing, Python, Customer Service, JavaScript",40,76
+567,2023-12-15,Charlotte,15.0,341,"Agile Methodologies, JavaScript",44,50
+568,2025-04-06,San Diego,11.0,612,"Cloud Computing, Project Management, Python",45,45
+569,2024-03-18,San Jose,11.7,2185,"Sales, JavaScript, Digital Marketing, Machine Learning, UX/UI Design",25,84
+570,2023-09-12,San Antonio,6.6,2913,"Cybersecurity, Python, UX/UI Design, JavaScript, Project Management",43,79
+571,2025-02-15,Fort Worth,14.9,4192,"SQL, Agile Methodologies, Sales",41,48
+572,2023-12-23,Dallas,4.2,4341,"Cloud Computing, Digital Marketing",50,58
+573,2023-08-13,Jacksonville,2.3,2988,"JavaScript, Cloud Computing, Machine Learning, Customer Service, Agile Methodologies",26,90
+574,2023-08-23,New York,5.7,4463,"Agile Methodologies, Project Management, UX/UI Design",40,69
+575,2024-05-01,San Diego,8.0,659,"Sales, Cloud Computing",26,42
+576,2024-11-05,New York,3.8,892,"UX/UI Design, Customer Service, JavaScript, Data Analysis",31,61
+577,2024-02-18,Seattle,13.8,2939,"SQL, Cybersecurity",40,58
+578,2025-07-02,Seattle,8.9,1491,"Python, Agile Methodologies, JavaScript",32,38
+579,2023-12-18,San Diego,11.8,1016,"Project Management, UX/UI Design, Sales, Cybersecurity",36,75
+580,2023-10-07,Denver,4.4,805,"SQL, Python",45,44
+581,2025-05-12,Fort Worth,14.6,722,"SQL, JavaScript, Python",42,83
+582,2025-04-03,San Antonio,6.8,2598,"Sales, SQL, UX/UI Design, Data Analysis, Customer Service",39,72
+583,2024-05-31,Dallas,4.6,3190,"UX/UI Design, Agile Methodologies, Sales, Python",42,86
+584,2023-09-11,Jacksonville,3.1,2257,"Cybersecurity, SQL, Customer Service, Data Analysis, Agile Methodologies",32,86
+585,2024-01-15,San Francisco,11.8,4868,"Cloud Computing, JavaScript, Project Management, UX/UI Design, Python",40,46
+586,2024-02-28,Seattle,6.5,1802,"JavaScript, Cloud Computing, Cybersecurity, Python",37,65
+587,2023-08-13,Houston,12.9,3975,"Data Analysis, Python, Sales, SQL",40,48
+588,2025-03-24,Seattle,2.2,214,"JavaScript, UX/UI Design, Agile Methodologies",46,71
+589,2023-12-09,San Francisco,12.2,4084,"Project Management, Digital Marketing, Python, Cybersecurity",31,40
+590,2024-03-21,Austin,11.5,3329,"JavaScript, Agile Methodologies, Data Analysis, Machine Learning",35,81
+591,2023-10-27,San Antonio,8.0,1570,"Digital Marketing, Cybersecurity",31,69
+592,2024-03-21,San Jose,4.5,2102,"Cybersecurity, JavaScript",40,63
+593,2024-08-17,Washington,12.9,2090,"Python, Agile Methodologies, UX/UI Design, SQL",39,78
+594,2025-03-02,Charlotte,12.3,3873,"SQL, Python, Cybersecurity, Sales, Agile Methodologies",37,79
+595,2023-11-18,Denver,2.3,1174,"Project Management, SQL, Data Analysis",41,87
+596,2024-04-27,Seattle,12.0,3463,"Customer Service, JavaScript, Digital Marketing, Python, Agile Methodologies",50,71
+597,2024-09-27,San Jose,12.5,3662,"Project Management, Sales, Python, Cybersecurity",41,39
+598,2024-11-28,Houston,3.2,2070,"Cloud Computing, Sales",25,71
+599,2024-03-28,Austin,7.5,4203,"Machine Learning, Sales, Cloud Computing",50,53
+600,2024-12-26,San Antonio,6.5,4488,"Machine Learning, JavaScript, Agile Methodologies, Cybersecurity, Data Analysis",39,32
+601,2025-05-23,Seattle,10.5,1047,"Sales, Python",40,49
+602,2024-04-24,New York,8.8,1037,"Digital Marketing, Sales, Cloud Computing, UX/UI Design, Customer Service",30,82
+603,2023-12-13,San Jose,14.4,4990,"Sales, Customer Service",42,69
+604,2023-10-04,San Antonio,8.7,1291,"Customer Service, Agile Methodologies, Machine Learning",34,79
+605,2024-09-19,Charlotte,13.4,1378,"Data Analysis, Project Management, Cloud Computing",45,71
+606,2025-01-03,San Jose,10.6,702,"Sales, UX/UI Design",42,36
+607,2025-07-14,San Antonio,11.7,4270,"Sales, Customer Service, Python, Data Analysis, Machine Learning",41,61
+608,2024-05-21,San Francisco,4.4,4230,"Python, JavaScript, UX/UI Design",33,45
+609,2025-06-21,San Francisco,9.5,3615,"Agile Methodologies, Project Management, Cloud Computing, UX/UI Design",41,51
+610,2024-01-26,Houston,12.1,1174,"Data Analysis, SQL",32,63
+611,2023-11-25,Denver,7.1,570,"Data Analysis, Customer Service, Cloud Computing, SQL",41,61
+612,2024-07-25,San Diego,4.8,1182,"Customer Service, Machine Learning",27,67
+613,2025-01-14,Chicago,9.5,1611,"Cloud Computing, Customer Service, Cybersecurity",48,90
+614,2025-03-28,Austin,6.1,3098,"Data Analysis, Sales, Customer Service",48,78
+615,2025-07-08,Washington,14.1,2242,"Sales, Agile Methodologies, Data Analysis",27,57
+616,2025-04-02,Indianapolis,11.4,1296,"Digital Marketing, Agile Methodologies, JavaScript, Python, Cloud Computing",36,55
+617,2025-01-02,San Jose,10.0,4560,"UX/UI Design, Project Management, Agile Methodologies",30,43
+618,2024-08-17,San Jose,3.7,4971,"Project Management, Customer Service, SQL",38,51
+619,2023-11-06,Chicago,6.0,4981,"Data Analysis, Python, Digital Marketing, Cloud Computing",40,87
+620,2023-12-28,New York,4.5,151,"Project Management, Data Analysis, SQL, Machine Learning",41,76
+621,2024-08-15,Washington,7.8,1469,"Agile Methodologies, Cybersecurity",26,35
+622,2024-02-14,Jacksonville,14.1,2529,"Sales, Cloud Computing, Cybersecurity",48,56
+623,2023-12-30,Denver,5.2,2162,"Cybersecurity, JavaScript, Machine Learning",46,74
+624,2024-05-25,San Antonio,13.3,3557,"Data Analysis, Python",37,79
+625,2024-09-09,Fort Worth,13.3,1501,"Digital Marketing, Machine Learning",34,65
+626,2024-07-05,Columbus,13.6,3977,"Customer Service, Sales, UX/UI Design",34,52
+627,2024-10-10,San Jose,6.6,1635,"Digital Marketing, Data Analysis, SQL",40,38
+628,2023-10-20,Houston,5.5,2373,"JavaScript, Python, SQL",46,47
+629,2024-12-04,San Antonio,5.0,4335,"SQL, Customer Service",32,87
+630,2024-09-20,San Francisco,10.0,4559,"UX/UI Design, JavaScript, Data Analysis",36,49
+631,2024-09-01,New York,9.0,4531,"Cybersecurity, Cloud Computing, Customer Service, UX/UI Design",36,40
+632,2023-11-04,Columbus,10.0,3668,"SQL, Data Analysis, Python",37,40
+633,2025-07-20,Seattle,7.5,3784,"Cybersecurity, JavaScript, SQL, Cloud Computing",29,87
+634,2025-01-02,Philadelphia,13.3,3266,"Sales, Machine Learning, Data Analysis",27,60
+635,2023-10-13,Los Angeles,12.7,2870,"Cloud Computing, Machine Learning, Agile Methodologies, Project Management, Digital Marketing",43,55
+636,2024-08-20,Charlotte,11.4,1712,"UX/UI Design, Machine Learning, Data Analysis",48,57
+637,2024-01-13,Los Angeles,11.3,1768,"JavaScript, Python, Digital Marketing, Sales",39,86
+638,2025-03-30,New York,13.1,1927,"UX/UI Design, Python, Cloud Computing",41,89
+639,2024-01-03,New York,12.3,3884,"Machine Learning, UX/UI Design, Python",37,88
+640,2024-11-16,Washington,9.0,2833,"Machine Learning, Customer Service, Digital Marketing",27,88
+641,2025-07-16,Fort Worth,3.7,4020,"JavaScript, Machine Learning, Agile Methodologies",39,38
+642,2024-11-19,Philadelphia,5.8,2339,"Data Analysis, Customer Service, Cloud Computing, JavaScript",49,53
+643,2025-01-01,Jacksonville,8.8,3859,"Machine Learning, Python",46,47
+644,2024-08-12,San Diego,12.5,657,"Machine Learning, Python",26,55
+645,2024-06-08,San Diego,11.4,1287,"Cloud Computing, Project Management",49,47
+646,2024-07-13,Phoenix,12.9,2667,"UX/UI Design, Machine Learning, Data Analysis, Cybersecurity",43,31
+647,2024-02-19,Chicago,7.5,3478,"Project Management, Sales, Digital Marketing, Data Analysis, Cybersecurity",28,54
+648,2025-03-01,Indianapolis,10.0,446,"Sales, Python, Cloud Computing",31,87
+649,2024-11-04,Philadelphia,10.7,3038,"SQL, Machine Learning",27,72
+650,2024-01-16,Dallas,10.4,3673,"SQL, Cloud Computing, Python",49,37
+651,2023-10-12,Charlotte,5.1,4589,"Machine Learning, Sales, Customer Service",41,53
+652,2023-10-11,San Francisco,2.3,326,"Project Management, Cybersecurity, Data Analysis, UX/UI Design",45,30
+653,2025-02-18,San Francisco,4.5,1155,"Cybersecurity, Sales, UX/UI Design",27,32
+654,2024-10-24,San Antonio,12.6,2374,"Project Management, Data Analysis, Cloud Computing, Sales, Digital Marketing",50,47
+655,2025-01-30,Charlotte,13.9,3609,"Machine Learning, UX/UI Design",42,69
+656,2025-02-28,Philadelphia,3.1,340,"Digital Marketing, JavaScript, Cybersecurity, Project Management",26,57
+657,2024-05-07,Chicago,13.2,3031,"Python, UX/UI Design",32,65
+658,2024-12-04,Indianapolis,6.2,1545,"SQL, Digital Marketing",43,52
+659,2024-06-22,Chicago,7.9,941,"Data Analysis, Project Management",34,51
+660,2023-12-16,Denver,6.0,783,"SQL, Digital Marketing, Python, Customer Service, Cloud Computing",48,31
+661,2024-12-06,Philadelphia,5.4,1195,"Python, Customer Service, UX/UI Design, Project Management, Sales",44,84
+662,2025-02-26,Los Angeles,6.2,4894,"Cybersecurity, UX/UI Design, Digital Marketing, SQL, Agile Methodologies",45,63
+663,2024-04-30,Dallas,6.1,1897,"JavaScript, Machine Learning, Sales, UX/UI Design",25,84
+664,2023-12-19,Austin,4.8,4686,"Python, Digital Marketing, SQL, Project Management",39,49
+665,2024-08-22,New York,3.4,410,"Customer Service, Agile Methodologies",28,45
+666,2024-03-02,Indianapolis,5.0,873,"Customer Service, SQL, Cloud Computing, UX/UI Design, Sales",36,49
+667,2025-03-14,Houston,11.1,3418,"Sales, Python, Customer Service, Cybersecurity",35,81
+668,2024-05-02,Charlotte,5.8,661,"Python, Digital Marketing, Sales, Cloud Computing, Project Management",48,36
+669,2024-07-02,San Jose,6.8,4017,"Python, Data Analysis, Sales, Project Management, Agile Methodologies",42,70
+670,2023-11-25,Dallas,6.0,203,"Cybersecurity, Python, Project Management, Digital Marketing",37,48
+671,2024-01-23,Philadelphia,3.6,3521,"UX/UI Design, SQL, JavaScript, Machine Learning, Agile Methodologies",27,84
+672,2023-11-21,San Diego,4.3,3919,"Python, Project Management",33,64
+673,2023-09-11,Charlotte,12.3,2969,"Cloud Computing, Customer Service, Project Management",30,50
+674,2023-10-31,San Diego,8.9,4419,"Machine Learning, SQL, Customer Service, Cloud Computing",46,73
+675,2024-02-28,Seattle,12.0,172,"Sales, Customer Service, Project Management",27,41
+676,2025-05-26,Denver,2.1,990,"Data Analysis, Cybersecurity",34,80
+677,2024-07-27,San Diego,7.8,2216,"SQL, JavaScript",33,77
+678,2025-07-22,Seattle,6.1,4252,"Customer Service, Project Management, Digital Marketing, Cybersecurity, Sales",26,75
+679,2025-02-05,Los Angeles,11.7,208,"Sales, UX/UI Design, Data Analysis, Machine Learning",49,68
+680,2024-11-04,Phoenix,11.8,1478,"Customer Service, Agile Methodologies, Project Management",31,71
+681,2025-07-16,Fort Worth,4.0,4948,"Sales, Digital Marketing, UX/UI Design, Python, Agile Methodologies",33,77
+682,2024-04-03,Denver,14.8,4498,"Project Management, Cybersecurity",42,68
+683,2024-10-04,Philadelphia,7.6,2459,"Python, UX/UI Design",46,90
+684,2025-02-01,Austin,12.0,4863,"Agile Methodologies, Project Management, Customer Service, Cloud Computing, UX/UI Design",37,39
+685,2024-10-29,Seattle,11.7,1852,"Cloud Computing, Project Management",41,56
+686,2025-03-04,Fort Worth,2.9,2547,"Sales, Project Management, SQL, Customer Service",25,35
+687,2024-06-05,San Diego,2.1,3045,"Cybersecurity, Cloud Computing, Customer Service, UX/UI Design, Project Management",32,55
+688,2023-11-18,Los Angeles,10.6,4246,"Digital Marketing, Agile Methodologies",50,59
+689,2025-01-18,San Antonio,10.3,756,"Customer Service, Cloud Computing, Python, UX/UI Design",50,48
+690,2023-08-29,Denver,12.7,4838,"Project Management, Machine Learning, UX/UI Design, Data Analysis",34,75
+691,2025-06-29,Charlotte,12.8,3782,"Cybersecurity, JavaScript, Project Management",40,33
+692,2025-03-28,San Francisco,11.3,2535,"Digital Marketing, Customer Service",49,67
+693,2024-07-28,Austin,13.3,685,"Data Analysis, UX/UI Design, Project Management",32,37
+694,2024-03-18,Austin,9.7,4630,"Python, Cybersecurity",42,75
+695,2024-02-29,Fort Worth,10.5,4193,"Project Management, UX/UI Design",39,77
+696,2023-10-04,Houston,14.4,3275,"UX/UI Design, SQL, Project Management, JavaScript, Customer Service",30,48
+697,2025-05-30,Fort Worth,5.1,2988,"SQL, Cybersecurity",37,49
+698,2024-03-03,Dallas,6.5,796,"Data Analysis, Cybersecurity, Python",26,38
+699,2024-06-23,Seattle,9.5,3986,"Agile Methodologies, JavaScript, Sales",30,72
+700,2024-09-15,Chicago,4.7,2668,"Cloud Computing, Sales, SQL, Project Management, Customer Service",27,57
+701,2025-03-05,Fort Worth,5.0,4115,"UX/UI Design, Sales, Agile Methodologies",33,31
+702,2023-08-31,Charlotte,13.5,3361,"Project Management, Sales, Python, Machine Learning",26,80
+703,2023-09-07,Indianapolis,3.8,4408,"Project Management, Digital Marketing",50,86
+704,2024-08-16,San Antonio,12.2,632,"Cloud Computing, Python, Digital Marketing, Agile Methodologies",35,68
+705,2024-12-31,Fort Worth,8.7,2472,"Cloud Computing, Data Analysis, JavaScript, Python",31,47
+706,2025-05-26,Phoenix,12.9,3264,"Machine Learning, Cloud Computing",33,71
+707,2024-09-02,Austin,14.1,3972,"Python, Cloud Computing, Cybersecurity, Sales, Digital Marketing",40,78
+708,2023-09-22,Denver,3.3,3826,"Agile Methodologies, Cybersecurity, Cloud Computing, Python, UX/UI Design",49,80
+709,2023-10-27,Seattle,7.9,2642,"Customer Service, Cybersecurity, JavaScript, Digital Marketing",44,87
+710,2023-09-25,New York,5.7,989,"UX/UI Design, Data Analysis, JavaScript",44,39
+711,2024-06-09,Dallas,5.1,3808,"UX/UI Design, Agile Methodologies, Cybersecurity, Customer Service",44,77
+712,2024-05-29,Fort Worth,7.1,853,"Customer Service, SQL, Digital Marketing, Python, Agile Methodologies",34,31
+713,2023-09-18,Columbus,6.3,3037,"Digital Marketing, Customer Service",45,67
+714,2024-07-11,San Jose,13.9,2524,"JavaScript, Agile Methodologies, Project Management, Python, Cloud Computing",48,66
+715,2025-06-22,Denver,3.6,4361,"Agile Methodologies, Customer Service",46,36
+716,2024-07-17,Phoenix,4.4,4252,"Cybersecurity, Sales, JavaScript, Machine Learning, Digital Marketing",47,38
+717,2023-08-10,Seattle,4.5,1333,"Machine Learning, Cybersecurity",32,35
+718,2023-08-09,Chicago,14.8,2464,"SQL, Customer Service, Machine Learning, Cybersecurity, Sales",37,52
+719,2024-04-07,Austin,14.6,4195,"Python, Sales, Cybersecurity, Project Management, Agile Methodologies",27,30
+720,2024-02-20,San Francisco,5.8,2184,"Sales, Customer Service, UX/UI Design, Agile Methodologies, JavaScript",25,45
+721,2024-03-30,Jacksonville,6.3,1863,"JavaScript, Customer Service, Machine Learning",49,69
+722,2023-09-04,Columbus,9.6,4954,"Digital Marketing, Customer Service, Sales, JavaScript",47,67
+723,2023-12-18,San Diego,8.1,1502,"Cloud Computing, Digital Marketing, Data Analysis",28,53
+724,2024-05-09,Dallas,9.5,1269,"Customer Service, UX/UI Design",32,67
+725,2024-03-12,San Francisco,13.2,2497,"Sales, Agile Methodologies, Cloud Computing, Machine Learning, SQL",25,66
+726,2024-04-19,Phoenix,4.2,3472,"UX/UI Design, Project Management, Customer Service, Digital Marketing",44,54
+727,2023-12-10,Austin,8.9,2267,"Digital Marketing, SQL, Cloud Computing, Sales, Cybersecurity",45,72
+728,2024-10-15,Indianapolis,4.0,60,"SQL, Data Analysis, Digital Marketing, Machine Learning",34,59
+729,2024-03-10,Denver,4.8,2138,"Digital Marketing, Data Analysis, Agile Methodologies, Cybersecurity, Machine Learning",41,31
+730,2023-11-19,Philadelphia,3.2,3857,"Data Analysis, Sales, Python",35,60
+731,2024-01-04,San Francisco,3.8,1159,"UX/UI Design, Agile Methodologies",48,80
+732,2025-02-15,Philadelphia,4.0,873,"Sales, Digital Marketing, Cybersecurity, Cloud Computing",29,48
+733,2023-10-10,San Diego,13.6,4091,"JavaScript, Python, Machine Learning, Cybersecurity, Cloud Computing",29,39
+734,2024-11-20,Columbus,9.9,1737,"Customer Service, Sales, Agile Methodologies",39,87
+735,2025-03-26,Chicago,14.0,354,"Python, Project Management, Machine Learning, Digital Marketing, JavaScript",28,64
+736,2023-08-16,San Francisco,7.0,1589,"SQL, Python, JavaScript, Sales, Customer Service",49,30
+737,2025-03-08,San Antonio,15.0,4075,"Data Analysis, JavaScript, Cybersecurity, Project Management, Agile Methodologies",40,74
+738,2024-07-15,Austin,10.3,2538,"Project Management, JavaScript, Sales, Agile Methodologies, SQL",27,82
+739,2024-08-26,Phoenix,7.4,1765,"Data Analysis, Digital Marketing, Sales, Customer Service",38,76
+740,2024-03-31,New York,14.4,4338,"SQL, Cybersecurity, Sales, Agile Methodologies",29,79
+741,2025-02-19,Dallas,11.5,4981,"Agile Methodologies, UX/UI Design, Digital Marketing",44,48
+742,2024-11-26,Charlotte,8.1,4006,"Customer Service, Python, UX/UI Design, SQL, Digital Marketing",31,87
+743,2023-12-03,Dallas,9.1,2774,"Python, Cloud Computing, UX/UI Design, Data Analysis",49,43
+744,2025-04-01,San Antonio,6.2,1192,"SQL, Agile Methodologies, Data Analysis, UX/UI Design, Project Management",28,75
+745,2023-10-10,Seattle,12.7,1041,"Customer Service, Machine Learning, Digital Marketing, Cloud Computing, SQL",50,76
+746,2024-11-22,San Jose,10.3,3293,"Project Management, JavaScript, Machine Learning, Digital Marketing",28,87
+747,2024-12-07,San Francisco,9.5,4088,"Customer Service, SQL, Data Analysis",47,38
+748,2024-03-15,Columbus,4.5,481,"Agile Methodologies, Cybersecurity",41,82
+749,2024-05-31,Chicago,5.9,2932,"Agile Methodologies, UX/UI Design, SQL, Customer Service",41,72
+750,2024-06-01,Indianapolis,12.7,2478,"Machine Learning, SQL, JavaScript, Sales, Customer Service",25,87
+751,2025-06-26,Seattle,5.9,1136,"JavaScript, Cybersecurity",39,58
+752,2025-06-01,Dallas,8.2,4688,"Agile Methodologies, UX/UI Design, Customer Service",32,71
+753,2024-11-16,Washington,9.4,1070,"JavaScript, Sales",29,51
+754,2024-12-17,Phoenix,3.3,3296,"Machine Learning, Digital Marketing, Cybersecurity, Sales",40,49
+755,2024-01-10,San Diego,13.4,3562,"Python, Customer Service, Machine Learning, UX/UI Design, Data Analysis",31,75
+756,2023-08-09,Chicago,10.9,4781,"UX/UI Design, Customer Service, JavaScript",40,51
+757,2023-11-08,San Antonio,2.6,3706,"JavaScript, Cybersecurity, Project Management",45,31
+758,2024-08-14,San Jose,6.5,279,"Sales, UX/UI Design, Project Management",40,40
+759,2025-07-05,Washington,3.8,1114,"SQL, Digital Marketing, Machine Learning, Sales",30,73
+760,2024-06-28,Fort Worth,9.8,4310,"Agile Methodologies, Python",27,45
+761,2024-04-18,Fort Worth,6.1,2449,"Customer Service, Cybersecurity, JavaScript, SQL",45,49
+762,2024-11-19,Columbus,6.3,4347,"Agile Methodologies, UX/UI Design, Cloud Computing",44,46
+763,2023-12-10,Austin,12.9,3383,"SQL, Machine Learning, UX/UI Design, Python, Digital Marketing",40,84
+764,2023-12-18,Dallas,9.5,131,"Digital Marketing, UX/UI Design, Agile Methodologies, Customer Service",26,65
+765,2024-05-18,Indianapolis,12.3,3074,"Python, UX/UI Design",49,70
+766,2023-11-05,San Jose,7.3,983,"Cloud Computing, Agile Methodologies, SQL",32,81
+767,2024-08-01,Fort Worth,8.9,256,"Python, Data Analysis, Machine Learning, Project Management, Cloud Computing",49,73
+768,2024-02-08,Washington,7.9,812,"Digital Marketing, Sales, Customer Service, Data Analysis",25,52
+769,2024-12-12,Chicago,12.7,519,"Cloud Computing, Machine Learning, Cybersecurity, Python",39,78
+770,2024-09-03,San Diego,12.7,3005,"JavaScript, Digital Marketing, Sales, Project Management, Data Analysis",36,34
+771,2024-06-22,San Jose,6.3,3581,"Cloud Computing, Data Analysis",32,74
+772,2023-12-14,Charlotte,4.4,3369,"Data Analysis, UX/UI Design, Project Management",35,71
+773,2025-04-10,Seattle,8.9,2912,"Customer Service, Machine Learning, Project Management",40,57
+774,2023-11-15,Chicago,6.5,620,"Project Management, SQL, Agile Methodologies",35,90
+775,2025-03-14,Washington,11.2,1069,"Sales, UX/UI Design, Python, SQL, Project Management",47,63
+776,2023-09-28,Philadelphia,7.1,2894,"Python, Cybersecurity, SQL, Digital Marketing, Data Analysis",38,42
+777,2024-01-27,Dallas,3.9,692,"Project Management, Customer Service, Python",34,83
+778,2024-07-13,Austin,7.8,1643,"UX/UI Design, Cloud Computing, Machine Learning",38,55
+779,2024-01-15,Phoenix,11.8,1072,"Cloud Computing, Project Management",38,50
+780,2024-05-27,Chicago,9.4,1239,"Machine Learning, UX/UI Design",28,89
+781,2025-05-26,Austin,8.3,335,"UX/UI Design, JavaScript",39,58
+782,2024-01-07,Houston,9.3,1155,"SQL, Cloud Computing, Agile Methodologies, Customer Service",39,84
+783,2024-07-11,Austin,14.5,241,"Digital Marketing, Data Analysis, Cybersecurity, Python, Cloud Computing",39,39
+784,2024-02-19,New York,10.1,3570,"SQL, Project Management, Sales",25,82
+785,2024-10-13,Jacksonville,11.0,3448,"Cloud Computing, Sales, Digital Marketing, Machine Learning, Project Management",35,40
+786,2024-01-31,Fort Worth,6.9,3456,"JavaScript, Python, SQL",42,32
+787,2025-07-22,San Antonio,9.3,1212,"Cybersecurity, JavaScript, Digital Marketing, SQL, Data Analysis",46,43
+788,2025-01-02,Columbus,9.5,1374,"Agile Methodologies, UX/UI Design, Customer Service",36,43
+789,2025-05-03,San Diego,7.9,4758,"Agile Methodologies, Cloud Computing, Customer Service, Project Management",36,73
+790,2024-09-28,Denver,2.4,2304,"Python, Agile Methodologies, Project Management, JavaScript",37,46
+791,2025-07-24,Los Angeles,3.5,207,"Project Management, Digital Marketing, Agile Methodologies, UX/UI Design, Cloud Computing",44,33
+792,2024-07-26,Fort Worth,11.8,2925,"JavaScript, Agile Methodologies, Machine Learning, Sales, UX/UI Design",49,52
+793,2025-01-04,Charlotte,3.6,1400,"Cloud Computing, Cybersecurity, Data Analysis, SQL",36,41
+794,2023-11-23,Fort Worth,14.0,4674,"Customer Service, Machine Learning, Digital Marketing",39,81
+795,2023-09-13,Fort Worth,7.5,2877,"UX/UI Design, Agile Methodologies, Sales",44,57
+796,2025-02-12,Los Angeles,10.7,1725,"UX/UI Design, JavaScript, Machine Learning, SQL",29,84
+797,2024-12-13,Austin,13.6,4686,"JavaScript, Customer Service, SQL, Machine Learning, Sales",26,56
+798,2025-06-27,Denver,12.6,1184,"Sales, Cloud Computing, UX/UI Design, Data Analysis, Machine Learning",40,49
+799,2025-02-13,Seattle,9.4,2918,"Cybersecurity, SQL, Data Analysis, Python, Sales",36,84
+800,2024-07-01,Dallas,10.2,889,"Project Management, Data Analysis, Machine Learning, UX/UI Design",48,31
+801,2023-09-10,San Francisco,13.3,345,"Project Management, Sales, Python, Data Analysis",42,86
+802,2025-03-12,Denver,13.1,2983,"SQL, Machine Learning, Agile Methodologies, JavaScript, Cloud Computing",45,86
+803,2024-04-27,San Jose,5.6,1353,"Machine Learning, UX/UI Design, Agile Methodologies",26,66
+804,2023-09-25,San Francisco,5.2,4087,"Agile Methodologies, UX/UI Design",46,86
+805,2024-10-11,Washington,5.7,4313,"Digital Marketing, Project Management, UX/UI Design, Cloud Computing",42,69
+806,2024-01-29,New York,12.8,2238,"UX/UI Design, Sales",49,87
+807,2024-08-05,Austin,11.9,4521,"Cloud Computing, Sales, Project Management",41,77
+808,2024-10-14,Phoenix,8.9,608,"Project Management, Cloud Computing, SQL, JavaScript",46,46
+809,2024-10-15,Los Angeles,9.1,3898,"Digital Marketing, JavaScript",43,43
+810,2025-07-18,Chicago,3.1,578,"Cybersecurity, Sales, Customer Service",27,76
+811,2023-09-18,Houston,10.7,1798,"Machine Learning, JavaScript",30,66
+812,2025-03-09,Washington,11.2,2768,"Project Management, Cloud Computing, Customer Service, SQL, Data Analysis",40,50
+813,2023-10-15,San Francisco,5.7,557,"SQL, Cloud Computing, JavaScript",45,81
+814,2024-11-26,Columbus,11.9,2410,"Cybersecurity, UX/UI Design, Customer Service, Machine Learning",45,44
+815,2024-03-11,Philadelphia,12.5,1342,"Python, UX/UI Design, Digital Marketing",28,34
+816,2024-10-30,Chicago,2.9,91,"Customer Service, Sales, Cybersecurity, Digital Marketing, Agile Methodologies",30,60
+817,2024-07-31,Seattle,10.1,1349,"Data Analysis, Cloud Computing, Sales, Customer Service, Python",46,73
+818,2024-09-26,Charlotte,7.3,3634,"Python, Digital Marketing, Sales",45,83
+819,2025-02-26,San Francisco,5.1,3115,"UX/UI Design, Sales, Project Management, Cybersecurity",41,39
+820,2024-03-12,Austin,13.3,1161,"SQL, Project Management",35,68
+821,2024-09-07,New York,4.2,3823,"JavaScript, Sales, Cybersecurity, Data Analysis",35,77
+822,2025-05-18,Phoenix,11.1,4823,"Agile Methodologies, Machine Learning, Python",37,32
+823,2025-02-18,San Antonio,8.5,3732,"SQL, Python, Agile Methodologies, Machine Learning",36,31
+824,2024-04-12,Phoenix,11.7,4747,"Cybersecurity, Data Analysis, Sales",35,66
+825,2024-03-24,Austin,8.6,4216,"Customer Service, Cloud Computing, JavaScript",42,30
+826,2025-06-25,Houston,5.4,3078,"Data Analysis, Customer Service",28,75
+827,2023-08-27,New York,12.5,4332,"Customer Service, Agile Methodologies, Project Management",31,76
+828,2024-06-23,Jacksonville,6.7,3689,"Customer Service, SQL, Sales, Cloud Computing, UX/UI Design",41,87
+829,2024-09-29,San Jose,2.5,954,"Project Management, Data Analysis, JavaScript",47,55
+830,2025-07-05,San Francisco,3.4,3468,"Agile Methodologies, Project Management, Machine Learning, Cloud Computing",34,66
+831,2024-02-10,Houston,5.5,3485,"Cloud Computing, Agile Methodologies, Data Analysis",28,59
+832,2024-01-16,Dallas,5.3,3095,"Digital Marketing, Agile Methodologies, Project Management, Cloud Computing, JavaScript",29,83
+833,2024-02-06,Philadelphia,11.4,1616,"Cybersecurity, JavaScript, Agile Methodologies, Project Management, Machine Learning",47,30
+834,2025-04-12,Austin,7.4,3885,"Sales, Digital Marketing, Agile Methodologies",39,65
+835,2025-06-16,Seattle,8.7,116,"Agile Methodologies, Machine Learning, Cybersecurity, JavaScript, Digital Marketing",26,76
+836,2023-12-13,San Diego,11.1,3138,"Project Management, Digital Marketing, Data Analysis, Sales, Cybersecurity",48,33
+837,2025-03-10,Seattle,3.7,1185,"Agile Methodologies, Project Management, Data Analysis, JavaScript",49,59
+838,2023-11-21,San Jose,4.6,4254,"Project Management, Data Analysis",44,74
+839,2024-12-05,Washington,5.6,3046,"Cloud Computing, Machine Learning",45,86
+840,2025-04-09,Los Angeles,7.3,519,"Project Management, Python",40,67
+841,2025-06-03,New York,2.7,2702,"UX/UI Design, Cloud Computing, JavaScript, Machine Learning",33,33
+842,2023-11-06,San Diego,10.8,1032,"Sales, Customer Service",41,52
+843,2025-07-21,Columbus,3.1,605,"Sales, Python, UX/UI Design, Data Analysis",33,62
+844,2023-08-15,Denver,14.2,4899,"Cloud Computing, SQL",25,63
+845,2024-12-31,Philadelphia,5.1,668,"Digital Marketing, UX/UI Design, Project Management, Customer Service",44,65
+846,2025-07-17,Columbus,4.3,3970,"Cloud Computing, Digital Marketing, Customer Service",31,90
+847,2024-10-18,Fort Worth,14.1,4853,"SQL, Python",41,48
+848,2024-09-10,Austin,12.3,2201,"Agile Methodologies, Machine Learning, Sales, SQL",42,50
+849,2024-01-01,Austin,9.2,2932,"Cloud Computing, Cybersecurity, Sales, UX/UI Design, Python",30,74
+850,2025-03-24,New York,12.7,4283,"JavaScript, Project Management, Cloud Computing",46,63
+851,2023-10-26,Columbus,14.9,87,"Cloud Computing, Cybersecurity",38,49
+852,2023-08-06,Philadelphia,12.2,4315,"Project Management, Machine Learning",34,54
+853,2024-09-30,Seattle,2.3,1521,"Digital Marketing, Cybersecurity",38,56
+854,2023-11-19,San Diego,11.7,1751,"SQL, Cybersecurity",31,44
+855,2025-01-12,Denver,14.0,53,"UX/UI Design, Cybersecurity",38,56
+856,2025-04-01,Indianapolis,6.3,3019,"Data Analysis, SQL, Sales",37,55
+857,2025-06-02,Washington,11.5,3255,"Cybersecurity, Data Analysis",29,50
+858,2024-06-22,Fort Worth,15.0,1794,"SQL, Sales, Cybersecurity, Data Analysis",36,85
+859,2024-02-24,San Diego,8.4,1329,"Sales, Cybersecurity, SQL, Digital Marketing",37,57
+860,2024-08-03,Seattle,3.3,1248,"Machine Learning, Cloud Computing, Cybersecurity",44,90
+861,2024-12-10,Chicago,14.7,3766,"Machine Learning, Customer Service",26,78
+862,2023-11-18,Washington,5.0,4619,"Python, SQL, Digital Marketing, Project Management, Agile Methodologies",32,72
+863,2025-05-03,Dallas,12.0,3165,"Cybersecurity, Python, SQL",43,42
+864,2024-10-13,Jacksonville,7.3,717,"SQL, Python, Sales",41,37
+865,2025-04-02,Indianapolis,4.1,1455,"Cloud Computing, Data Analysis, Agile Methodologies, Sales",50,50
+866,2024-08-29,San Antonio,8.9,3452,"Cloud Computing, Data Analysis, JavaScript",44,56
+867,2025-03-04,Washington,10.2,604,"Data Analysis, Python, UX/UI Design, Cloud Computing",30,84
+868,2024-01-24,Austin,11.9,1613,"Project Management, JavaScript, Data Analysis, Sales",45,66
+869,2025-07-08,Jacksonville,13.1,1065,"Project Management, SQL, Digital Marketing, Machine Learning, Python",38,57
+870,2024-10-29,San Francisco,7.0,2340,"Machine Learning, Sales, UX/UI Design",43,71
+871,2025-07-12,Fort Worth,3.5,4206,"Machine Learning, Digital Marketing, Data Analysis, Customer Service",34,40
+872,2024-10-07,Columbus,4.8,4145,"Python, JavaScript",29,56
+873,2024-11-08,San Antonio,5.1,2884,"Project Management, Digital Marketing, JavaScript",43,57
+874,2025-02-19,Dallas,14.1,4038,"JavaScript, Digital Marketing, Agile Methodologies",29,81
+875,2024-09-24,Houston,11.0,3327,"Cybersecurity, Sales",29,79
+876,2024-07-21,Philadelphia,7.1,146,"Data Analysis, SQL, Project Management",42,48
+877,2023-09-17,San Antonio,5.8,388,"Sales, Project Management, Cloud Computing, Cybersecurity, Data Analysis",34,76
+878,2024-04-18,Dallas,13.2,4495,"Cybersecurity, Project Management, Machine Learning",25,89
+879,2024-04-03,Houston,9.2,3697,"JavaScript, Data Analysis, Agile Methodologies",48,60
+880,2024-07-23,Fort Worth,13.1,4590,"Cloud Computing, Cybersecurity, Agile Methodologies, Project Management, Customer Service",38,58
+881,2025-04-01,Dallas,2.3,1671,"Data Analysis, Sales, Python",36,43
+882,2025-06-21,Seattle,10.3,2631,"Digital Marketing, Machine Learning, Data Analysis, Sales",36,58
+883,2024-11-25,San Antonio,6.1,1449,"Project Management, Digital Marketing, Machine Learning, Cloud Computing",44,69
+884,2024-01-16,San Diego,3.7,1861,"Python, Cloud Computing, Agile Methodologies, UX/UI Design, Project Management",47,70
+885,2024-02-04,San Diego,11.3,1004,"Machine Learning, UX/UI Design, Project Management, Data Analysis",30,49
+886,2025-04-25,Columbus,2.6,3407,"Machine Learning, Cloud Computing, Customer Service",37,89
+887,2023-09-22,San Francisco,9.6,58,"Cybersecurity, Agile Methodologies",43,48
+888,2023-12-26,Washington,4.2,2561,"Cloud Computing, Sales, Python",41,42
+889,2025-07-19,Houston,12.8,4224,"UX/UI Design, Project Management, Cybersecurity, Python",36,86
+890,2024-11-18,Philadelphia,8.9,218,"Data Analysis, Cybersecurity, Python",31,69
+891,2024-05-14,Columbus,7.2,1842,"Python, Cybersecurity",39,44
+892,2024-11-10,Seattle,10.8,4044,"Cloud Computing, UX/UI Design",35,45
+893,2024-03-29,Indianapolis,8.8,775,"Data Analysis, Sales, Cloud Computing, JavaScript",25,86
+894,2024-07-25,Washington,4.8,2703,"Project Management, UX/UI Design, Agile Methodologies, Cloud Computing, Python",48,71
+895,2025-01-11,Jacksonville,12.9,238,"Agile Methodologies, Cybersecurity",49,75
+896,2025-04-23,Denver,7.8,1077,"Machine Learning, Cybersecurity",50,67
+897,2024-12-23,Washington,10.5,1936,"Data Analysis, JavaScript, Sales, Python, Cybersecurity",42,90
+898,2023-12-22,Dallas,7.7,2898,"JavaScript, Agile Methodologies, Python",25,75
+899,2024-03-08,Chicago,7.4,2225,"Project Management, Agile Methodologies, UX/UI Design, JavaScript",48,41
+900,2024-04-20,Philadelphia,11.5,1132,"Customer Service, Python, Cybersecurity, Digital Marketing",41,47
+901,2024-05-18,Indianapolis,2.7,4733,"Python, UX/UI Design",50,73
+902,2023-09-30,Los Angeles,7.8,2399,"Agile Methodologies, Data Analysis, Digital Marketing",42,65
+903,2023-08-24,Seattle,6.6,615,"Python, Agile Methodologies, Project Management, Digital Marketing, SQL",44,70
+904,2024-08-03,San Francisco,4.9,4977,"Python, UX/UI Design, Cloud Computing, Cybersecurity",26,51
+905,2025-06-07,Austin,4.5,568,"SQL, Cloud Computing, Data Analysis, UX/UI Design, Python",38,51
+906,2024-11-14,New York,12.8,466,"Machine Learning, Project Management",43,57
+907,2025-07-07,Columbus,3.2,4777,"Cloud Computing, Agile Methodologies, Data Analysis, Customer Service",46,72
+908,2025-03-07,San Jose,14.8,3032,"Machine Learning, Cybersecurity, JavaScript",38,36
+909,2024-11-13,Fort Worth,3.6,2431,"Cloud Computing, Agile Methodologies, SQL, Sales",46,84
+910,2024-10-10,Philadelphia,2.7,1323,"Project Management, Digital Marketing",26,30
+911,2025-03-25,San Jose,9.3,3260,"Project Management, UX/UI Design",37,89
+912,2025-05-15,Charlotte,5.5,488,"SQL, Data Analysis",47,59
+913,2024-10-01,Indianapolis,12.0,2444,"UX/UI Design, Machine Learning",49,78
+914,2024-07-28,New York,10.0,1155,"Data Analysis, Sales",41,85
+915,2024-02-05,San Antonio,15.0,771,"Cybersecurity, Data Analysis, SQL",45,70
+916,2023-08-21,Philadelphia,10.7,2659,"UX/UI Design, Machine Learning, Cloud Computing, Customer Service, SQL",36,74
+917,2024-01-16,Philadelphia,8.8,2334,"Machine Learning, SQL",25,57
+918,2024-11-24,Houston,7.8,2605,"Agile Methodologies, SQL, Customer Service",29,33
+919,2025-07-13,Phoenix,15.0,3110,"Python, JavaScript, Cybersecurity, SQL",34,66
+920,2025-07-03,Denver,11.3,2964,"Sales, Python",37,69
+921,2025-04-17,Houston,7.4,3272,"Customer Service, Cybersecurity, Machine Learning, Cloud Computing",40,53
+922,2023-12-20,Jacksonville,14.3,2222,"Cybersecurity, Agile Methodologies, SQL, UX/UI Design",35,39
+923,2025-05-17,San Jose,2.0,4427,"Data Analysis, Sales, Python, SQL, Project Management",29,47
+924,2024-11-24,San Diego,14.9,430,"Cloud Computing, Project Management, SQL, UX/UI Design, JavaScript",34,86
+925,2024-11-24,Austin,2.0,1436,"Project Management, Cybersecurity, Cloud Computing",39,51
+926,2025-05-31,Fort Worth,8.3,2388,"Cloud Computing, JavaScript, Agile Methodologies, Customer Service, Sales",39,60
+927,2025-04-03,Los Angeles,14.4,653,"Digital Marketing, Project Management, Cloud Computing, Data Analysis, Customer Service",44,77
+928,2024-07-23,Houston,14.9,2272,"SQL, Digital Marketing, Python",45,63
+929,2024-01-04,Charlotte,12.4,4897,"Python, Sales, Cybersecurity, Digital Marketing, Data Analysis",33,90
+930,2024-04-23,New York,7.8,2858,"SQL, Project Management, Machine Learning, Cybersecurity, Python",37,47
+931,2024-12-10,Los Angeles,10.7,3149,"Machine Learning, Digital Marketing, JavaScript, Cybersecurity, Data Analysis",35,70
+932,2024-12-06,Austin,5.8,3641,"Data Analysis, Customer Service, Cybersecurity, UX/UI Design, Machine Learning",45,66
+933,2025-03-08,San Francisco,10.1,3226,"JavaScript, Digital Marketing, SQL, Project Management",43,75
+934,2023-12-28,Seattle,15.0,2106,"Agile Methodologies, Cybersecurity, Project Management",27,52
+935,2025-03-31,San Jose,14.9,2231,"Customer Service, UX/UI Design",28,59
+936,2023-12-25,Chicago,2.6,3180,"Data Analysis, SQL, Digital Marketing",35,82
+937,2024-07-02,Dallas,12.9,1713,"Sales, UX/UI Design, Data Analysis, JavaScript",26,46
+938,2025-03-05,Denver,4.2,2738,"UX/UI Design, Agile Methodologies, Cybersecurity, Data Analysis, Digital Marketing",38,38
+939,2024-11-10,San Antonio,2.3,279,"Cybersecurity, SQL",45,77
+940,2024-11-26,San Diego,9.6,1952,"Machine Learning, Cloud Computing, UX/UI Design",36,71
+941,2025-06-12,Dallas,9.8,582,"Agile Methodologies, Cybersecurity",29,72
+942,2024-02-02,Fort Worth,14.7,1724,"Data Analysis, Project Management, Digital Marketing, SQL",41,87
+943,2023-08-13,Dallas,11.7,4037,"Machine Learning, Customer Service, JavaScript, Python",39,45
+944,2024-08-23,Jacksonville,8.8,4112,"Customer Service, Cybersecurity",48,90
+945,2023-09-02,San Antonio,3.9,3654,"UX/UI Design, Project Management, Digital Marketing",35,48
+946,2024-08-26,Chicago,9.8,4768,"Machine Learning, UX/UI Design, Agile Methodologies, Customer Service",32,32
+947,2023-10-05,San Diego,10.0,1941,"Agile Methodologies, Digital Marketing, Project Management",48,50
+948,2025-04-13,Charlotte,12.3,3581,"Agile Methodologies, Cloud Computing, Data Analysis, Machine Learning, SQL",40,77
+949,2024-04-10,Indianapolis,11.4,910,"Cloud Computing, JavaScript, Machine Learning, Sales, SQL",50,86
+950,2024-08-09,San Jose,5.2,92,"Digital Marketing, Cloud Computing, Sales",48,47
+951,2024-07-21,Austin,14.5,4592,"SQL, Cloud Computing, Python, Cybersecurity, Data Analysis",30,51
+952,2025-05-08,Austin,4.0,2608,"Cloud Computing, Customer Service, Agile Methodologies, UX/UI Design",33,82
+953,2025-05-17,Philadelphia,5.1,55,"Machine Learning, Data Analysis, JavaScript",38,43
+954,2025-07-01,Chicago,9.9,2498,"SQL, UX/UI Design, Sales, Project Management",38,72
+955,2023-10-22,Dallas,9.5,4586,"SQL, Cybersecurity",41,36
+956,2024-12-04,Jacksonville,7.7,1395,"Cloud Computing, Digital Marketing, SQL, Agile Methodologies, Customer Service",31,49
+957,2024-08-04,San Jose,3.9,4932,"Python, Digital Marketing, Sales, SQL, Machine Learning",45,54
+958,2024-08-18,Seattle,2.1,2061,"Python, UX/UI Design, JavaScript",26,77
+959,2025-02-13,Jacksonville,7.6,4010,"Agile Methodologies, Cybersecurity, Digital Marketing, SQL",38,36
+960,2024-03-24,San Antonio,12.7,2403,"Agile Methodologies, Machine Learning, Python",30,82
+961,2025-04-21,San Francisco,4.7,1129,"Cybersecurity, UX/UI Design",38,87
+962,2023-08-01,Los Angeles,7.9,4528,"Customer Service, Agile Methodologies, JavaScript, Cybersecurity",32,57
+963,2024-04-24,Charlotte,2.9,895,"Agile Methodologies, Machine Learning, Customer Service, Python",43,47
+964,2024-01-11,Charlotte,4.3,3411,"Customer Service, Sales, Cloud Computing, Digital Marketing, Python",28,76
+965,2024-01-21,Seattle,3.2,3025,"Data Analysis, JavaScript, Project Management",43,65
+966,2024-01-14,San Francisco,3.6,3920,"Sales, Cybersecurity, JavaScript, Data Analysis",35,88
+967,2024-07-26,New York,14.5,2501,"JavaScript, Cloud Computing",34,67
+968,2025-01-07,New York,8.1,1339,"Machine Learning, Customer Service, Cloud Computing, JavaScript, Cybersecurity",50,86
+969,2024-02-12,Charlotte,9.1,458,"Customer Service, JavaScript, SQL",26,60
+970,2025-06-05,Chicago,2.9,3310,"JavaScript, UX/UI Design, Cloud Computing",43,87
+971,2025-06-26,Jacksonville,14.5,2219,"UX/UI Design, Python",25,80
+972,2024-04-05,Seattle,5.6,2638,"Project Management, Data Analysis, Customer Service",48,53
+973,2025-07-17,Phoenix,5.4,99,"Agile Methodologies, UX/UI Design, SQL, Cybersecurity, Data Analysis",25,71
+974,2025-05-07,Denver,7.8,2053,"Data Analysis, Sales, Digital Marketing, UX/UI Design",34,49
+975,2025-02-08,San Antonio,4.0,103,"Data Analysis, Customer Service, Agile Methodologies, Cloud Computing, Cybersecurity",44,39
+976,2023-09-07,Dallas,9.5,2260,"Cybersecurity, Sales, UX/UI Design, Customer Service",48,33
+977,2023-10-02,Dallas,9.2,3309,"Digital Marketing, Customer Service, Cloud Computing",27,48
+978,2024-06-18,Phoenix,12.2,538,"Data Analysis, Machine Learning, Agile Methodologies, UX/UI Design, Project Management",47,36
+979,2025-07-27,Indianapolis,10.7,2983,"Data Analysis, Machine Learning",38,62
+980,2024-11-21,Dallas,12.4,1513,"Customer Service, UX/UI Design",33,41
+981,2025-06-22,Indianapolis,11.8,591,"SQL, JavaScript, Sales, Cloud Computing, Cybersecurity",44,77
+982,2025-07-06,San Antonio,9.9,4769,"SQL, Project Management, Machine Learning, Digital Marketing, Customer Service",40,50
+983,2025-01-13,Seattle,14.5,4887,"Customer Service, Data Analysis, SQL, Python",28,75
+984,2025-03-04,New York,10.4,225,"JavaScript, Agile Methodologies, Project Management, Data Analysis",37,54
+985,2024-04-28,Seattle,13.0,2749,"Cloud Computing, SQL, Digital Marketing, Customer Service, Cybersecurity",45,43
+986,2024-09-17,Charlotte,3.6,3000,"Project Management, JavaScript, UX/UI Design",30,43
+987,2024-06-25,Philadelphia,13.8,4185,"JavaScript, Cloud Computing, Digital Marketing, Sales",35,32
+988,2023-12-04,Philadelphia,8.3,1978,"Digital Marketing, SQL, Cybersecurity, Agile Methodologies, Customer Service",34,51
+989,2025-03-16,San Jose,12.8,925,"UX/UI Design, Sales, Cybersecurity, Customer Service",41,40
+990,2023-11-29,Seattle,7.4,4945,"Cybersecurity, UX/UI Design, SQL",34,87
+991,2025-02-28,Dallas,11.0,1556,"Digital Marketing, Customer Service, Agile Methodologies, Python",27,41
+992,2024-12-27,San Diego,5.7,1456,"Digital Marketing, SQL, Customer Service, Machine Learning",49,69
+993,2024-05-23,San Jose,7.6,3616,"Data Analysis, Cybersecurity, Digital Marketing, SQL, Agile Methodologies",37,57
+994,2024-04-26,San Diego,14.8,4113,"Agile Methodologies, Digital Marketing, Sales, Data Analysis",43,66
+995,2024-04-04,Columbus,12.7,4208,"Customer Service, Machine Learning, Python, Project Management",43,43
+996,2023-11-07,Jacksonville,8.9,4127,"UX/UI Design, Data Analysis",43,84
+997,2024-02-27,Austin,8.3,1203,"Project Management, JavaScript, Agile Methodologies, Data Analysis",46,41
+998,2023-10-13,Denver,4.9,184,"JavaScript, Project Management, Machine Learning, Sales, Data Analysis",25,68
+999,2024-05-08,Dallas,6.7,3236,"Project Management, Digital Marketing, Sales, Agile Methodologies, UX/UI Design",25,65
+1000,2025-07-08,San Francisco,5.8,350,"JavaScript, Customer Service, Agile Methodologies, Cloud Computing",32,64

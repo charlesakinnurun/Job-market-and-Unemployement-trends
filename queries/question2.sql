@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT location) AS unique_state FROM job;
