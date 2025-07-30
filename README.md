@@ -17,12 +17,12 @@ Driven by a quest to understand and analyze historical performance and dynamics 
 10. Which region has the lowest average unemployment rate?
 ### 📅 Time Series Analysis
 11. What is the monthly average unemployment rate across all states?
-12. How has the unemployment rate changed over time for a specific state like 'California'?
+12. How has the unemployment rate changed over time for a specific state like 'New York'?
 13. Which month had the overall highest average unemployment rate?
 14. What is the trend of unemployment rate in the Southern region over time?
 ### 📍 State and Region Focus
 15. List the top 5 states with the lowest average unemployment rate.
-16. Compare the average unemployment rate between 'California' and 'Texas'.
+16. Compare the average unemployment rate between 'New York' and 'Washington'.
 17. Which region had the most volatile unemployment rate (highest standard deviation)?
 ### 📌 Filtering and Aggregation
 18. How many records have an unemployment rate greater than 8%?
