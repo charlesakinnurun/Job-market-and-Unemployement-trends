@@ -54,7 +54,7 @@ CREATE TABLE job(
 )
 ```
 # The Analysis
-### Which states had an unemployment rate between 4% and 6% for more than 12 months?
+#### Which states had an unemployment rate between 4% and 6% for more than 12 months?
 ```sql
 SELECT location,COUNT(*) AS months_in_range
 FROM job
@@ -63,7 +63,7 @@ GROUP BY location
 HAVING COUNT(*) > 12
 ORDER BY months_in_range DESC;
 ```
-### What is the monthly average unemployment rate across all states?
+#### What is the monthly average unemployment rate across all states?
 ```sql
 SELECT 
     DATE_FORMAT(date, '%Y-%m') AS month,
@@ -72,7 +72,7 @@ FROM job
 GROUP BY month
 ORDER BY month;
 ```
-### List the top 5 states with the lowest average unemployment rate.
+#### List the top 5 states with the lowest average unemployment rate.
 ```sql
 SELECT location,AVG(unemployment_rate) AS avg_unemployment_rate
 FROM job
@@ -80,7 +80,7 @@ GROUP BY location
 ORDER BY avg_unemployment_rate ASC
 LIMIT 5;
 ```
-### Which region has the lowest average unemployment rate?
+#### Which region has the lowest average unemployment rate?
 ```sql
 SELECT location,AVG(unemployment_rate) AS avg_unemployment_rate
 FROM job
